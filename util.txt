@@ -1,0 +1,147 @@
+﻿MySQL
+
+Crear persona
+INSERT INTO test.persona(nombre,apellido,email,telefono) VALUES ('Christian','Vanegas', 'chris@gmail.com', 3003443233);
+Modificar un registro
+UPDATE test.persona SET nombre = 'Johan' WHERE (idpersona = '1');
+Eliminar un registro
+DELETE FROM `test`.`persona` WHERE (`idpersona` = '11');
+ELiminar todo
+DROP TABLE test.persona
+seleccionar todo
+SELECT FROM 
+MySQL es muy bueno, aunque no lo vamos a usar debo estudiarlo
+________________________________________________________________________________________________________________________________________________
+Java
+
+JOptionPane.showInputDialog("Digite el lado 1: ");
+JOptionPane.showMessageDialog(null,"Datos del entrenador ");
+para números enteros int edad =  Integer.parseInt(JOptionPane.showInputDialog("Ingrese la edad  "));
+para sacar el JOptionPane uso ctrl+espacio
+
+El argumento es el valor que le envío al parámetro
+un caracter puede ser o es un bit
+________________________________________________________________________________________________________________________________________________
+hay una tecnología en desarrollo de software en la unad
+En UML interpretación de tipos de datos (-)privado, (#)protegido, (+)público
+________________________________________________________________________________________________________________________________________________
+SQlite3
+
+CREATE TABLE "User" (
+
+);
+
+Estructura para tablas con código SQL
+
+CREATE TABLE "User" (
+	"Id"	INTEGER NOT NULL,
+	"Name"	TEXT NOT NULL,
+	"Country"	TEXT NOT NULL,
+	"Age"	INTEGER NOT NULL,
+	PRIMARY KEY("Id" AUTOINCREMENT)
+);
+________________________________________________________________________________________________________________________________________________
+SELECT * FROM Decano;
+
+Con AS puedo asignarle un alias al nombre de una columna cuando le realizo por ejemplo operaciones aritmeticas
+SELECT Cedula, Nombre, Sueldo, 12*(Sueldo+100000) AS Sueldo_total
+FROM Docente;
+
+Operadores lógicos
+SELECT "El nombre del docente es " || Nombre || " Está titulado en " || Titulo AS Profesor
+FROM Docente;
+|| or/o
+________________________________________________________________________________________________________________________________________________
+
+Inheritance/Herencia
+
+loops/bucles
+
+shift+f6 es para compilar
+
+Insertar datos a una tabla
+INSERT INTO Empleado (Id, Nombre, Correo)
+VALUES (NULL, 'Camilo', 'camilo@gmail.com')
+En bases de datos es mejor usar comillas simples
+El NULL es para que el sistema me autoinctemente los Id
+
+Con la palabra newo y luego Tab, se puede crear un objeto (o instancia de clase) más rápido.
+
+btn botones
+txt text file
+tb tablas
+
+cambiar el nombre de usuario windows 
+click derecho sobre el icono windows y le damos en ejecutar, luego buscamos por 
+netplwiz propiedades y cambiamos el nombre.
+________________________________________________________________________________________________________
+
+28-08-2021 Ciclo tres desarrollo de software
+
+Scrum master
+Scrum es un marco de trabajo
+Ciclo de vida del desarrollo de software -> análisis, diseño, codificación, prueba, despliegue y mantenimiento.
+Sprint o iteraciones -> un sprint es un objetivo determinado de corta duración
+Roles {
+Equipo (dueño del producto, scrum master, desarrolladores)
+Gerencia
+Cliente
+Usuarios finales
+Vendedores/Empleadores o contribuyentes externos
+Personas cuyos roles son afectados por el proyecto
+}
+Artefactos
+Sprint {
+Reunión de planificación del sprint
+Scrums diarios
+Trabajo de desarrollo
+Revisión del sprint -> review del producto
+Retrospectiva del sprint -> review del proceso
+}
+Sprint goal es la meta establecida por sprint
+________________________________________________________________________________________________________
+Sprint 1 
+Se entrega la clase 3 de la semana 2 próximo martes
+Se debe tener:
+Grupo conformado 
+nombre del proyecto
+estar agregados a una comunidad en github
+**********************************************************************************************************************************************
+Crear 5 historias de usuario
+Entregar un avance del informe de requerimientos de software
+**********************************************************************************************************************************************
+Lo ideal es que nuestro sistema sea un CRUD, es recomendable crear las historias de usuario por proceso.
+Video clase tres 1:02:00 El informe de requisitos de software también se entrega semanalmente como los sprint y se van cambiando las versiones 
+cada vez que se entrega
+Hacerlo en un historial con fecha y revisión, cambiar autor por scrum master, dueño del productor, cliente Johan Gordillo, formador, elegir
+el nombre de la empresa y representante
+Definir el alcance
+Realizar un avance de requisitos de software
+bootstrap interfaces moviles o adaptativos
+________________________________________________________________________________________________________
+Git
+la fusión se hace una vez por semana
+Hacer un proyecto con 5 sesiones y cada persona desarrolla una sesión
+
+headers
+https://cssgradient.io/
+https://uigradients.com/
+
+________________________________________________________________________________________________________
+
+Varios
+
+Se necesitan 21 días para crear un hábito según la psicología
+
+Para un proyecto de vida importante que contenga = [1: programación neurolinguistica, 2: inteligencia emocional]
+
+Debemos amar la insertidumbre
+
+Todo puede ser posible
+
+La vida también es tristeza
+
+Si fuera a generar un proyecto se llamaría:
+
+mirada alternativa (mi proyecto) => altlook (alternative look)
+________________________________________________________________________________________________________

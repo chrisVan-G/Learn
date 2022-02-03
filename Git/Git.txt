@@ -1,0 +1,190 @@
+Git
+____________________________________________________________________________________________________________________________
+Directorio de trabajo, staging area(preparación), directorio git
+* Working tree = [contenido de un commit]
+* Branch-ramas: punteros con nombres determinados que direccionan a un commit concreto
+Si me desplazo de rama a rama debo usar checkout
+* Tag-eqtiqueta: es una versión
+* Commit: es un nuevo objeto commit e identifica una nueva versión. Cada commit contiene metadata como autor y fecha
+____________________________________________________________________________________________________________________________
+
+Comandos
+
+con cd nombreCarpeta me muevo hacia una carpeta especifica, con cd .. vuelvo atras de la carpeta en la que me encuentro
+ls: me muestra el contenido de una carpeta especifica
+ls -al ver ficheros ocultos de una carpeta
+pwd: ruta de carpeta en la que estoy trabajando
+git init: inicializar
+git --version
+git help: me muestra comandos de Git 
+git status: me muestra en estado me mi espacio de trabajo, pueden usarse atajos pero debo modificarlo en el sistema (git s)
+git log: para mirar la version de mi programa, pueden usarse atajos pero debo modificarlo en el sistema (git l)
+git log --oneline: muestra solo una linea resumida
+git log --oneline --decorate --all --graph: organiza todo en una linea y estilizada
+git log ramaB...ramaA
+git log --follow[file]
+
+Recuperar información
+git checkout -- . permite retomar el estado del último commit
+
+Descripción de los commits
+git commit --amend -m "descripción" se modifica solo el último commit
+
+Revertir commits
+git reset --soft HEAD^ Me lleva al commit anterior pero me guarda de forma local la información que estaba trabajando en el 
+commit revertido
+
+Si quiero agregar(git add) todos los archivos que terminan en un tipo especifico uso:
+git add *.xx (py, html, js, txt, md) solo sirve epara la carpeta actual en la que este trabajando
+git add "*.xx" con las comillas sirve para addicionar cualquier archivo con la extensión seleccionada en el proyecto 
+
+Abreviaciones
+
+git status -s
+git status -s -b
+
+Shortcuts para nuestros comandos
+git config --global alias.s "status -s -b"
+git config --global alias.l "log --oneline --decorate --all --graph"
+
+Commits y retrocesos
+
+git checkout -- archivo.x  me lleva a la version anterior
+git diff: para ver diferencias en los archivos
+git diff --staged
+git diff ramaB...ramaA
+git show[SHA]
+
+Supresión de archivos externamente
+git add -u para actualizar git Si elimino un archivo de mi reposistorio de forma externa, debo actualizar en el terminal
+para que tome esa modificación
+
+Supresión de archivos desde git 
+git rm fichero.x remover
+
+Renombrar ficheros desde git
+git mv archivo.x nuevoNombreArchivo.x 
+
+Mover ficheros
+git mv archivo.x carpetaDestino/
+
+Ignorar archivos con git
+.gitignore
+
+Rebase
+Genera una area temporal para el progreso 
+
+Rebase interactivo
+git rebase ramaQueVoyAasociar
+
+Unir commits con rebase squash
+git rebase -i HEAD~2(es el número de commits a unir)
+
+Reescribir descripciones con rebase Reword 
+git rebase -i HEAD~1
+
+git clone [url] clonar
+____________________________________________________________________________________________________________________________
+
+Inicializar Git en un proyecto
+
+Ubicarse sobre la carpeta y allí inicializar git -> git init
+Debemos nombrar el repositorio con la identidad del propietario 
+git config user.name "user"
+git config user.email "email"
+** Lo anterior también puede realizarse con global **
+git config --global user.name "user"
+git config --global user.email "email"
+git config --global -e para ver mis datos
+git config --list con esto verifico que se agregaron los datos de user
+
+Ir guardando el progreso
+
+git add archivo.x me permite adicionar el trabajo
+git commit -m "descripción" me permite confirmar los cambios o trabajo realizado y dejar una descripción breve de ello  
+git add . para agregar más de un archivo
+git add -u actualizar
+
+Branches-Ramas
+
+principales[main y develop] y auxiliares[feature, release, hotfix]
+git branch: para ver en que rama estamos
+
+Crear ramas
+git branch nombreRama
+git checkout -b ramaX con este comando creamos la rama y nos ubicamos directamente en ella 
+
+Editar el nombre a una rama
+git branch -m ramaX nombreNuevo
+
+Moverse entre ramas
+git checkout ramaX
+
+Eliminar ramas
+git branch -d ramaX Si estoy parado sobre la rama no la puedo eliminar
+
+Merge-unión
+
+Tipos de merge 
+
+* Fast forward se da cuando la rama master no cambia y la rama secundaria puede luego unirse con la principal
+* Unión automatica hay cambios tanto en la rama principal como en la secundaria y git nos ayuda a ejecutar la unión 
+* Merge con conflictos ocurre cuando trabajamos con un mismo archivo, al hacer el merge habra un conflicto por lo que se deben adaptar
+los cambios de forma manual 
+
+Tags-etiquetas
+
+git tag nombreDelTag
+git tag para ver los tags creados
+
+Enlazar tags a commits 
+
+git tag -d nombreDelTag para eliminarlo
+git tag -a v2.0.0 -m "Mi segunda versión del proyecto"
+
+Poner el tag en un hash especifico que identifica un commit
+git tag -a v1.0.0 d0f5ba7 -m "Mi primera versión"
+git show v1.0.0 me muestra el tag con toda su data
+
+Stash
+Caja donde puedo guardar temporalmente mis progresos
+
+git stash
+wip work in progress
+git stash list para listar mis trabajos en progresos
+git stash pop para retomar el trabajo en progeso que deje en pendiente
+
+Resolución de conflictos con el stash
+
+Luego de solucionado el conflicto usamos
+git stash drop para eliminar el wip
+git stash show
+
+Comandos vim 
+
+Para usarlos debemos hacer lo siguiente en el terminal:
+
+vim archivo.ext
+
+Comandos dim 
+
+touch: Crear archivos, touch nombreArchivo.extension
+Si solo tengo un fichero uso tabulador y se completa el nombre automaticamente
+Antes de escribir se debe pulsar la letra i para poder insertar
+Luego de escribir le damos escape esc, para guardar le damos :wq (write and quit)
+cat: Ver lo que hay en un archivo desde la terminal, cat nombreArchivo.extension
+cat archivo.ext
+Si edito algo y no quiero guardar, hago lo anterior y no uso el comando wq si no solo q!
+____________________________________________________________________________________________________________________________
+
+Vincular el repositorio local con el remoto
+
+git remote add origin "url del repositorio en github"
+origin es un convencionalismo, se puede usar cualquier nombre
+git push -u origin master(master o main es la rama asociada creada automaticamente por git)
+____________________________________________________________________________________________________________________________
+
+[Descripción para commits]
+
+Notas de estudio Git y Github 02022022 actualización archivo Git.txt
+____________________________________________________________________________________________________________________________
