@@ -18,6 +18,8 @@ git init: inicializar
 git --version
 git help: me muestra comandos de Git 
 git status: me muestra en estado me mi espacio de trabajo, pueden usarse atajos pero debo modificarlo en el sistema (git s)
+git status -s
+git status -s -b
 git log: para mirar la version de mi programa, pueden usarse atajos pero debo modificarlo en el sistema (git l)
 git log --oneline: muestra solo una linea resumida
 git log --oneline --decorate --all --graph: organiza todo en una linea y estilizada
@@ -39,10 +41,6 @@ git add *.xx (py, html, js, txt, md) solo sirve epara la carpeta actual en la qu
 git add "*.xx" con las comillas sirve para addicionar cualquier archivo con la extensión seleccionada en el proyecto 
 
 Abreviaciones
-
-git status -s
-git status -s -b
-
 Shortcuts para nuestros comandos
 git config --global alias.s "status -s -b"
 git config --global alias.l "log --oneline --decorate --all --graph"
