@@ -204,6 +204,11 @@ proyecto puede aceptar o rechazar mi propuesta.
 pull requests 
 
 Wikis sirve para hostear documentación es parecido al README.
+
+Gists
+Es un proyecto reducido que permite compartir código usando git, puede usarse como un porta papeles, estaba
+pensado como una forma rápida de compartir código.
+new gist
 ____________________________________________________________________________________________________________________
 
 [Descripción para commits]
