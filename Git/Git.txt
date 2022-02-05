@@ -1,15 +1,16 @@
 Git
-_____________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
 Directorio de trabajo, staging area(preparación), directorio git
 * Working tree = [contenido de un commit]
 * Branch-ramas: punteros con nombres determinados que direccionan a un commit concreto
 Si me desplazo de rama a rama debo usar checkout
 * Tag-eqtiqueta: es una versión
 * Commit: es un nuevo objeto commit e identifica una nueva versión. Cada commit contiene metadata como autor y fecha
-_____________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
 
 Comandos
 
+mkdir nombreCarpeta crear carpeta con git 
 con cd nombreCarpeta me muevo hacia una carpeta especifica, con cd .. vuelvo atras de la carpeta en la que me 
 encuentro
 ls: me muestra el contenido de una carpeta especifica
@@ -84,7 +85,7 @@ Reescribir descripciones con rebase Reword
 git rebase -i HEAD~1
 
 git clone [url] clonar
-_____________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
 
 Inicializar Git en un proyecto
 
@@ -176,16 +177,26 @@ Luego de escribir le damos escape esc, para guardar le damos :wq (write and quit
 cat: Ver lo que hay en un archivo desde la terminal, cat nombreArchivo.extension
 cat archivo.ext
 Si edito algo y no quiero guardar, hago lo anterior y no uso el comando wq si no solo q!
-_____________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
 
 Vincular el repositorio local con el remoto
 
 git remote add origin "url del repositorio en github"
 origin es un convencionalismo, se puede usar cualquier nombre
 git push -u origin master(master o main es la rama asociada creada automaticamente por git)
-_____________________________________________________________________________________________________________________
+
+Cuando subo mi proyecto, no se suben los tags por lo que debo hacerlo de forma manual con git push --tags
+git remote -v
+git fetch me dice lo que se ha cambiado en el repositorio remoto 
+git pull origin master
+git clone url
+rm -rvf borrarCarpeta/
+Si creo una rama de forma remota y al pullearlo no se visualiza fuerzo su aparición con git checkout ramaX
+
+Sigue el video de markdown
+____________________________________________________________________________________________________________________
 
 [Descripción para commits]
 
 Notas de estudio Git y Github ddmmaaaa actualización archivo Git.txt
-_____________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
