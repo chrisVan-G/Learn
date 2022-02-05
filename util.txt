@@ -1,17 +1,23 @@
 ﻿MySQL
 
 Crear persona
-INSERT INTO test.persona(nombre,apellido,email,telefono) VALUES ('Christian','Vanegas', 'chris@gmail.com', 3003443233);
+INSERT INTO test.persona(nombre,apellido,email,telefono) VALUES ('Christian','Vanegas', 'chris@gmail.com', 
+3003443233);
+
 Modificar un registro
 UPDATE test.persona SET nombre = 'Johan' WHERE (idpersona = '1');
+
 Eliminar un registro
 DELETE FROM `test`.`persona` WHERE (`idpersona` = '11');
+
 ELiminar todo
 DROP TABLE test.persona
+
 seleccionar todo
 SELECT FROM 
 MySQL es muy bueno, aunque no lo vamos a usar debo estudiarlo
-________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
+
 Java
 
 JOptionPane.showInputDialog("Digite el lado 1: ");
@@ -21,10 +27,7 @@ para sacar el JOptionPane uso ctrl+espacio
 
 El argumento es el valor que le envío al parámetro
 un caracter puede ser o es un bit
-________________________________________________________________________________________________________________________________________________
-hay una tecnología en desarrollo de software en la unad
-En UML interpretación de tipos de datos (-)privado, (#)protegido, (+)público
-________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
 SQlite3
 
 CREATE TABLE "User" (
@@ -40,7 +43,8 @@ CREATE TABLE "User" (
 	"Age"	INTEGER NOT NULL,
 	PRIMARY KEY("Id" AUTOINCREMENT)
 );
-________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
+
 SELECT * FROM Decano;
 
 Con AS puedo asignarle un alias al nombre de una columna cuando le realizo por ejemplo operaciones aritmeticas
@@ -51,11 +55,7 @@ Operadores lógicos
 SELECT "El nombre del docente es " || Nombre || " Está titulado en " || Titulo AS Profesor
 FROM Docente;
 || or/o
-________________________________________________________________________________________________________________________________________________
-
-Inheritance/Herencia
-
-loops/bucles
+____________________________________________________________________________________________________________________
 
 shift+f6 es para compilar
 
@@ -74,7 +74,7 @@ tb tablas
 cambiar el nombre de usuario windows 
 click derecho sobre el icono windows y le damos en ejecutar, luego buscamos por 
 netplwiz propiedades y cambiamos el nombre.
-________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
 
 28-08-2021 Ciclo tres desarrollo de software
 
@@ -99,35 +99,13 @@ Revisión del sprint -> review del producto
 Retrospectiva del sprint -> review del proceso
 }
 Sprint goal es la meta establecida por sprint
-________________________________________________________________________________________________________
-Sprint 1 
-Se entrega la clase 3 de la semana 2 próximo martes
-Se debe tener:
-Grupo conformado 
-nombre del proyecto
-estar agregados a una comunidad en github
-**********************************************************************************************************************************************
-Crear 5 historias de usuario
-Entregar un avance del informe de requerimientos de software
-**********************************************************************************************************************************************
-Lo ideal es que nuestro sistema sea un CRUD, es recomendable crear las historias de usuario por proceso.
-Video clase tres 1:02:00 El informe de requisitos de software también se entrega semanalmente como los sprint y se van cambiando las versiones 
-cada vez que se entrega
-Hacerlo en un historial con fecha y revisión, cambiar autor por scrum master, dueño del productor, cliente Johan Gordillo, formador, elegir
-el nombre de la empresa y representante
-Definir el alcance
-Realizar un avance de requisitos de software
-bootstrap interfaces moviles o adaptativos
-________________________________________________________________________________________________________
-Git
-la fusión se hace una vez por semana
-Hacer un proyecto con 5 sesiones y cada persona desarrolla una sesión
+____________________________________________________________________________________________________________________
 
 headers
 https://cssgradient.io/
 https://uigradients.com/
 
-________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
 
 Varios
 
@@ -144,4 +122,4 @@ La vida también es tristeza
 Si fuera a generar un proyecto se llamaría:
 
 mirada alternativa (mi proyecto) => altlook (alternative look)
-________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
