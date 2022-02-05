@@ -193,7 +193,17 @@ git clone url
 rm -rvf borrarCarpeta/
 Si creo una rama de forma remota y al pullearlo no se visualiza fuerzo su aparición con git checkout ramaX
 
-Sigue el video de markdown
+Forks Clonaciones y colaboraciones
+
+fork-bifurcación
+pull requests-propuestas
+Lo que debo hacer es crear el fork, lo que me asignará una nueva rama, debo clonar el proyecto, realizo los
+cambios o propuestas, adiciono y commiteo, luego pusheo y realiza una pull requests donde el propietario del
+proyecto puede aceptar o rechazar mi propuesta.
+
+pull requests 
+
+Wikis sirve para hostear documentación es parecido al README.
 ____________________________________________________________________________________________________________________
 
 [Descripción para commits]
