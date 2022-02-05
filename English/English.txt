@@ -178,13 +178,13 @@ started(regular verb)
 took(irregular verb)
 began(irregular verb)
 
-* Regulares
+Regulares
 en el pasado les adicionamos (ed)
 Print-printed
 Create-created
 Close-closed
 
-* Irregulares
+Irregulares
 Read-read
 Find-found
 Go-Went
@@ -926,8 +926,6 @@ admit, miss, practice, can't help(solo si va acompañado de can't)]
 
 Reading strategies
 
-
-
 Prefixes and suffixes
 
 Prefixes
@@ -1023,7 +1021,9 @@ sunset/puesta de sol
 whether/ya sea
 Moreover/es más
 but/pero
-since/ya que 
+since/ya que
+Inheritance/Herencia
+loops/bucles
 ___________________________________________________________________________________________________________________
 
 [*] = datos importantes
@@ -1031,5 +1031,5 @@ ________________________________________________________________________________
 
 [Descripción para commits]
 
-Notas de estudio English 15012022 actualización archivo English.txt
+Notas de estudio English ddmmaaaa actualización archivo English.txt
 ___________________________________________________________________________________________________________________
