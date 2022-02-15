@@ -16,9 +16,9 @@
 # de python y reiniciamos el pc 
 # Tema polykai
 
-print("Hola Mundo")
-
 # Anaconda
 
 # Anaconda es una suit donde encontramos librerias y herramientas para ciencias de datos, mineria de datos, etc.
 # Funciones de numpy y pandas
+
+print("Hola Mundo")
