@@ -1,5 +1,5 @@
 
-# Bucles o cilos While
+# Bucles o ciclos While
 
 # Hace uso de iteradores (i)
 
@@ -14,6 +14,7 @@ else:
 
 # while con funciones
 
+'''
 def main():
     print("Diga si, para terminar el programa")
     respuesta = input("Desea terminar con el programa: ")
@@ -25,50 +26,60 @@ def main():
 
 if __name__ == "__main__":
  main()
+'''
 
-'''def main():
-    print("COMFIRME SU CONTRASEÑA")
-    password_1 = input("Escriba su contraseña ")
-    password_2 = input("Escriba de nuevo su contraseña ")
+'''
+def main():
+    print("Confirme su contraseña")
+    print("------------------------------------")
+    password_1 = input("Escriba su contraseña: ")
+    password_2 = input("Escriba de nuevo su contraseña: ")
     
     while password_1 != password_2:
-        print("las contraseñas son diferetes.'Intentalo de nuevo'")
-        password_1 = input("Escriba su contraseña ")
-        password_2 = input("Escriba de nuevo su contraseña ")
+        print("las contraseñas son diferetes.¡Intentalo de nuevo!")
+        password_1 = input("Escriba su contraseña: ")
+        password_2 = input("Escriba de nuevo su contraseña: ")
 
     print("Contraseña confirmada")    
         
 if __name__ == "__main__":
-    main()'''
+    main()
+'''
 
-'''def main():
+'''
+def main():
     print("Alcancía digital")
-        
+    print("------------------------------------")
     objetivo = float(input("Cuánto dinero en pesos desea ahorrar: "))
         
     ahorrado = 0.0;
         
-    while objetivo >= ahorrado:
+    while objetivo > ahorrado:
             ahorrado += float(input("Cuántos pesos desea consignar a la alcancía "))
-                    
-    print(f"Has cumplido tu objetivivo, ahorraste ${ahorrado}")     
-      
+    
+    sobrante = ahorrado - objetivo;
+    
+    print(f"Has cumplido tu objetivo, ahorraste ${ahorrado} dolares y tu sobrante es de ${sobrante} dolares.")
+    
 if __name__ == "__main__":
-    main()'''
-# revisar y optimizar, que si me paso de la meta me devuelva el excedente
+    main()
 
-'''numero = int(input("Digite un número "))
+# revisar y optimizar, que si me paso de la meta me devuelva el excedente
+'''
+
+'''
+numero = int(input("Digite un número: "))
 while numero > 0:
     print("Actual valor del número: ", numero)
     numero = numero -1
     if numero == 5:
-        break'''
+        break
 
-'''numero = int(input("Digite un número "))
+'''
+
+numero = int(input("Digite un número: "))
 while numero > 0:
     print("Actual valor del número ", numero)
     numero = numero - 1
     if numero == 5:
      continue
-# Revisar, no debería imprimir el 5
-'''
