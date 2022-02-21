@@ -15,6 +15,7 @@
 # Debemos ir a inicio, editar variables de entorno del sistema, variables de entorno, nueva, agregamos el path
 # de python y reiniciamos el pc 
 # Tema polykai
+# Puedo usar python desde cmd con el comando py, si quiero dejar de usarlo uso exit()
 
 # Anaconda
 
@@ -22,3 +23,27 @@
 # Funciones de numpy y pandas
 
 print("Hola Mundo")
+
+'''
+Tipos de datos
+
+Entrada(input) => programa => Resultado(output)
+
+Tipos de datos básicos o primitivos
+
+Datos = [numéricos: (int, float), texto: str, lógicos: booleanos(bool)]
+
+int representa números enteros
+float representa números con punto decimal
+str reprsenta secuencias o cadenas(strings) de caracteres
+bool representa valores booleanos o de lógica binaria: Verdadero o falso
+Los datos booleanos deben escribirse con mayúscula incicial: True, False
+
+Con type podemos saber el tipo de dato que estamos manejando
+
+
+type(7)
+type(7.5)
+type("Hola")
+type(True)
+'''

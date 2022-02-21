@@ -2,6 +2,38 @@
 # Operadores
 
 '''
+Expresión de calculos
+
+Operadores y expresiones
+simbolos(operadores) y calculos(expresiones)
+
+operadores sobre int y float = [+, -, *, /, inverso aditivo(-), exponenciación(**), división entera(//), módulo(%)]
+
+Operadores de comparación 
+Se aplican a int y float y entregan un resultado de tipo bool < <= > >= != ==
+
+Operadores lógicos
+Se aplican a datos de tipo bool y entregan un tipo bool not and or 
+
+Operadores para datos tipo str concatenación(+) y repetición(*)
+'''
+
+# Manipulando datos. Conversiones de tipos
+
+# Conversiones a str
+# print("Son las " + (3+6)) # genera error
+print("Son las " + str(3+6)) # error solucionado al convertir valores enteros a str
+
+# Conversiones a int
+print("El valor entero es", int(3.5565))
+print("El resultado de la suma es", int("3") + 12)
+print("El resultado de la suma es", float("3.6") + 12)
+
+# Para operar entre valores, estos deben tener el mismo tipo de dato
+
+
+
+'''
 x = int(input("Digite un número al azar:  "))
 y = 10
 

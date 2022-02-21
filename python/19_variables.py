@@ -1,6 +1,16 @@
 
 # Variables 
 
+# Almacenando valores. Variables y asignación
+
+llegada = 19 # En este caso el = me ayuda a asignar un valor a la variable
+pesos_por_hora = 200
+salida = 22
+print((salida-llegada) * pesos_por_hora)
+
+# nombre(lado inquierdo)=(asignación) expresión(lado derecho)
+# Podemos reasignarle el valor a las variables
+
 x = 10
 y = 101
 
