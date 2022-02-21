@@ -2,6 +2,8 @@
 # Bucles o ciclos while
 
 # Hace uso de iteradores (i)
+# En el while necesitamos incializar la varianle i antes de comenzar el while e incrementarla al finalizar cada ciclo
+# mientras que el for hace esto de manera implicita, lo que hace que con for se utilicen menosmlineas de código
 
 '''
 i = 0
@@ -77,9 +79,12 @@ while numero > 0:
 
 '''
 
+'''
 numero = int(input("Digite un número: "))
 while numero > 0:
     print("Actual valor del número ", numero)
     numero = numero - 1
     if numero == 5:
      continue
+
+'''

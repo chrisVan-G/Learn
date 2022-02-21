@@ -77,3 +77,18 @@ Ahora puedes practicar solicitando más datos al usuario. Solo tienes que usar a
 pais de nacimiento, direccion, etc. Guarda esos datos en variables del tipo, y finalmente escrí­belos en pantalla
 utilizando print. Puedes agregar todas las líneas que necesites.
 '''
+
+continuar = True
+
+while continuar:
+    escribir_mensaje = str(input("¿Deseas escribir un mensaje? (S/N) "))
+    if escribir_mensaje == "S" or escribir_mensaje == "s" or escribir_mensaje == "":
+            mensaje = input("Vamos a publicar un mensaje. ¿Qué piensas hoy? ")
+            print()
+            print("--------------------------------------------------")
+            print(nombre, "dice:", mensaje)
+            print("--------------------------------------------------")
+    else:
+        continuar = False
+
+print("Gracias por usar Mi Red. ¡Hasta pronto!")

@@ -2,6 +2,11 @@
 # Ciclos for
 
 '''
+for variable in secuencia:
+    instrucciones
+'''
+
+'''
 for letra in "Colombia":
     print(letra)
 else:
@@ -47,6 +52,7 @@ while n >= 1 and n <= 10:
         break
 '''
 
+'''
 from ctypes.wintypes import HACCEL
 
 
@@ -72,3 +78,13 @@ print("--------------------------------------")
 
 for letra in "Colombia":
     print("Hola")
+
+'''
+
+# Si range recibe 1 parámetro (7) imprime los datos hasta el punto establecido -1 (0,1,2,3,4,5,6)
+# Si range recibe 2 parámetros (1, 7) inicia el el parámetro 1 y fanaliza en el punto establecido -1 (1,2,3,4,5,6)
+# Si range recibe 3 parámetros (1, 11, 2) inicia el el parámetro 1 y fanaliza en el punto establecido -1 aumentando 
+# según el tercer valor (1,3,5,7,9)
+
+for i in range(8):
+    print(i)

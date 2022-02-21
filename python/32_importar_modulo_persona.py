@@ -1,4 +1,7 @@
-from modulo_persona import Persona
+
+# Importación y llamado de módulos
+
+from modulos import Persona
 
 p1 = Persona("Johan", "Perez", "M", 33, 1.65)
 print(p1)
