@@ -1024,6 +1024,9 @@ but/pero
 since/ya que
 Inheritance/Herencia
 loops/bucles
+On/sobre algo que toca el suelo
+Over/sobre algo que no toca el suelo
+self/uno mismo-yo
 ___________________________________________________________________________________________________________________
 
 [*] = datos importantes

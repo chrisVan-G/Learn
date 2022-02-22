@@ -11,7 +11,7 @@ class Persona:
      self.__estatura = estatura
  
  def __str__(self):
-     return "Nombre: " + self.__nombre + " Apellido: " + self.__apellido + " Genero: " + self.__genero + " - edad: " + str (self.__edad) + " Estatura: " + str (self.__estatura)
+     return "Nombre: " + self.__nombre + " apellido: " + self.__apellido + " genero: " + self.__genero + " - edad: " + str (self.__edad) + " estatura: " + str (self.__estatura)
 
 # random es un modulo que permite generar pseudoaleatorios
 # math es un modulo que permite realizar calculos complejos y acceder a constantes conocidas
