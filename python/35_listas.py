@@ -30,11 +30,13 @@ print(vacia2)
 
 # Manipulación de listas
 
+'''
 compra = ["huevos", "queso", "arepas", "matequilla", "cafe", 15000]
 print(compra)
 
-# Adicionar elemento, las listas son mutables, podemos modificar y acceder a elementos, cada elemento tiene
+# Adicionar elemento, las listas son mutables(no como str), podemos modificar y acceder a elementos, cada elemento tiene
 # una posición o indice que inicia en 0 y termina en -1
+
 print("Por favor no olvidar el", compra[4])
 # Podemos acceder a fragmentos o slices
 print(compra[1:4])
@@ -62,12 +64,92 @@ for elem in compra:
 compra[1] = "cuajada"
 compra[5] = 20000
 print(compra)
+'''
 
 # Inserción y eliminación en listas
 
+'''
+adicional = ["tomates", "cebolla"]
+compra = compra + adicional
+print(compra)
+print(adicional * 2)
+'''
 
+# append agrega un elemento al final de la lista lista.append(elemento), recibe el elemento nuevo a agregar
 
 '''
+compra.append("tomates")
+print(compra)
+
+# El método extend recibe como parámetro una lista y agrega todos los elementos de ella a la lista sobre la cual
+# lo hemos llamado
+
+compra.extend(["cebolla", "jamon"])  
+print(compra)
+
+# Agregar elementos en cualquier posición lista.insert(index, elemento), recibe 2 parámetros, el primero
+# me pregunta en que posición quiero adicionar el elemento y el segundo es donde va el nuevo elemento
+
+compra.insert(2, "panela")
+print(compra)
+
+# Eliminar lista.pop() elimina y retorna el primer elemento, lo eliminado lo entrega como valor de retorno
+# por eso se debe almacenar en una variable
+# Según la teoria elimina el primer elemento de la lista, en este caso me elimino el último
+
+no_necesario = compra.pop()
+print(compra)
+print("No necesito llevar", no_necesario)
+
+# remove elimina un elemento de la lista lista.remove(elemento), recibe el elemento como parámetro y 
+# lo elimina de la lista 
+
+compra.remove("arepas")
+print(compra)
+
+# Funciones sobre listas
+
+print("Hay", len(compra), "cosas por comprar")
+print("¿Hay cilintro en mis biberes?", ("ciliantro" in compra))
+print("¿Hay huevos en mis biberes?", ("huevos" in compra))
+print("Huevos está en la posición", compra.index("huevos")) 
+# Sí el elemento no está en la lista genera error y detiene el programa
+'''
+
+# De str a lista, método split
+'''
+print()
+lista = input("Por favor ingrese los elementos de la lista: ")
+utiles = []
+inicio = 0
+for i in range(0, len(lista)):
+    if lista[i] == ",":
+        utiles.append(lista[inicio : i])
+        inicio = i+1
+utiles.append(lista[inicio:])
+print("utiles:", utiles)
+
+# string.split(separador) separa un string lo guarda en una lista
+'''
+print()
+lista = input("Por favor ingrese los elementos de la lista: ")
+utiles = lista.split(" ")
+print("utiles:", utiles)
+
+# Ordenar listas list.sort() ordena de menor a mayor alfabeticamente
+
+'''
+precios = [1800, 2300, 450, 610]
+print("Original:", precios)
+precios.sort()
+print("Ordenada:", precios)
+print()
+
+comprar = [[11000, "huevos"], [4000, "arepas"], [5000,"queso"], [3500, "tomate"], [2000, "cebolla"]]
+print("Original:", comprar)
+comprar.sort()
+print("Ordenada:", comprar)
+
 nombres = ["Karla", "Johana", "Ivan", "Sofia"]
 print(nombres)
 # Saber el largo o dimension de la lista
