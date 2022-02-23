@@ -82,6 +82,7 @@ for asignatura in passed:
 print("tienes que repetir: "+ str(asignaturas))
 '''
 
+'''
 asignaturas = ["Matemáticas", "Física", "Química", "Historia", "Lenguas"]
 aprobado = []
 reprobado = []
@@ -98,3 +99,15 @@ for asignatura in aprobado:
 for asignatura in reprobado: 
     asignaturas.remove(asignatura)
 print("Tienes que repetir: " +str(asignaturas))
+'''
+
+diccionario = {"a":10, "b":20}
+
+if diccionario["a"] == diccionario["b"]:
+    print("Los números", diccionario["a"], "y", diccionario["b"], "son iguales")
+
+elif diccionario["a"] < diccionario["b"]:
+    print("El número", diccionario["a"], "es menor que ", diccionario["b"])
+
+else:
+    print("El número", diccionario["b"], "es menor que ", diccionario["a"])

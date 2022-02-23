@@ -131,10 +131,22 @@ print("utiles:", utiles)
 
 # string.split(separador) separa un string lo guarda en una lista
 '''
+
+'''
 print()
 lista = input("Por favor ingrese los elementos de la lista: ")
 utiles = lista.split(" ")
 print("utiles:", utiles)
+'''
+
+frase = "Hola estamos inciando la unidad número cuatro"
+tokens = frase.split()# split() convierte una cadena de caracteres en una lista desplegable
+
+def caracteres(palabra):
+    if len(palabra) > 3: # Esto es mineria de datos, no me interesan palabras como: el, la...
+        return True
+    
+list(filter(caracteres, tokens))
 
 # Ordenar listas list.sort() ordena de menor a mayor alfabeticamente
 

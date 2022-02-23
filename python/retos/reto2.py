@@ -1,3 +1,4 @@
+
 def termometro(nombre_temperatura: dict):
     
     d_nom = nombre_temperatura ['nombre']

@@ -1,5 +1,6 @@
-# CRUD paran cargar modificar y eliminar
 
+# CRUD paran cargar modificar y eliminar
+actividad_ejecutar = input("¿Qué actividad necesita realizar: crear, modificar o eliminar?: ").upper()
 # PASO 3: Definir funciones
 if actividad_ejecutar == 'crear':
     def cargarEstudiantes(identificacion: int, nombre: str):
@@ -36,14 +37,16 @@ print("-----------------------------------")
 print("Cargar estudiantes")
 
 actividad_ejecutar = input("¿Qué actividad necesita realizar: crear, modificar o eliminar?: ").upper()
+
 '''
 indentificacionEstudiante = int(input("Digite el ID del estudiante: "))
 nombreEstudiante = str(input("Digite el nombre del estudiante: "))
 estudiantes_activos = cargarEstudiantes(indentificacionEstudiante, nombreEstudiante)
-'''
-'''
+
 # PASO: 4 Imprimir el listado de todos los estudiantes
 
 print(imprimirListadoEstudiantes(estudiantes_activos))
 # Si pongo un id ya existente reemplaza el anterior 
 '''
+
+# Terminarlo

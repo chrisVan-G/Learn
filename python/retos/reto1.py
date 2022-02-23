@@ -1,3 +1,4 @@
+
 def estudiante (nota1: float, nota2: float, nota3: float, nota4: float,)-> str:    
     
     promedioDato1 = nota1 * 0.3  # La nota 1 es multiplicada por el porcentaje asociado (30%)

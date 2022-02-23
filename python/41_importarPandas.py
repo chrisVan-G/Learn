@@ -1,4 +1,5 @@
-'''import pandas as pd
+'''
+import pandas as pd
 
 # Función
 pd.read_csv(rutaUbicacionArchivo)
@@ -7,5 +8,5 @@ pd.read_csv(rutaUbicacionArchivo)
 
 import pandas as pd
 
-df = pd.read_csv(url)'''
-
+df = pd.read_csv(url)
+'''

@@ -1,4 +1,6 @@
+
 # Abstracción de información importante, filtrar informacion de una lista
+
 '''
 class Persona:
     def __init__(self, nombre, edad):
@@ -20,8 +22,9 @@ menores = filter(lambda persona: persona.edad < 18, personas)
 for menor in menores:
     print(menor)
 '''
+
 '''
-# Conversor  de decimal a binario, octal y hexadecimal
+# Conversor de decimal a binario, octal y hexadecimal
 
 def conversor(sis):
     def sis_bin(numero):
@@ -79,6 +82,7 @@ for vuelo in vuelosEjemplo:
 miDiccionario = dict()
 for avion in aviones:
     miDiccionario[avion] = 0
+
 #realizar la acumulacion de duraciones cada avion del listado de vuelos
 mayorDuracion = -1
 for avion in aviones:
@@ -89,7 +93,8 @@ for avion in aviones:
         if miDiccionario[avion]> mayorDuracion:
             mayorDuracion =miDiccionario[avion]
             avionConMayorDuracion = avion
+
 # preparacion de la tupla de salida
-miTupla=(avionConMayorDuracion,miDiccionario[avionConMayorDuracion])
+miTupla = (avionConMayorDuracion, miDiccionario[avionConMayorDuracion])
 
 print (miTupla)
