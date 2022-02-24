@@ -52,6 +52,18 @@ print(a.strip("s"))
 b = "Hola!1!"
 print(b.replace("1", "!"))
 
+# No interprear caracteres especiales usando r
+print(r'C:\some\name')
+
+# Para cadenas de texto con múltiples líneas usamos """...""" o '''...'''
+
+print("""\
+Esta en una impresión de un string \nentre multiples lineas
+para lo cual usamos comillas triples 
+""")
+
+# Voy en este punto Dos o más cadenas literales (es decir, las encerradas entre comillas) una al lado de la otra se concatenan automáticamente.
+
 
 '''
 mensaje = "Hola"

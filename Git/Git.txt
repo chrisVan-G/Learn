@@ -32,6 +32,12 @@ git log --follow[file]
 Recuperar información
 git checkout -- . permite retomar el estado del último commit
 
+Para volver atras a un commit anterior por x razón puedo usar
+git checkout numeroDelCommit (como si fuera una rama)
+
+Para volver al código como estaba en ese punto (pero lo ideal es no tener que usar esto)
+git reset --hard numeroDelComit 
+
 Descripción de los commits
 git commit --amend -m "descripción" se modifica solo el último commit
 
@@ -211,7 +217,11 @@ pensado como una forma rápida de compartir código.
 new gist
 ____________________________________________________________________________________________________________________
 
-[Descripción para commits]
+Al momento de trabajar en un proyecto se debe tener presente lo siguiente
 
-Notas de estudio Git y Github ddmmaaaa actualización archivo Git.txt
+Con relación al repositorio local y remoto:
+
+localmente trabajar con las HU(Historias de usuario) H1, H2... e ir eliminando cada que la HU se halla desarrollado.
+Un desarrollador debe ser el encargado de mezclar dev con main.
+Siempre voy a hacer un pull cuando empiece a trabajar y antes de montar mis cambios (antes del push).
 ____________________________________________________________________________________________________________________

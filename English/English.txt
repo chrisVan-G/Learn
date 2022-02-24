@@ -1027,6 +1027,10 @@ loops/bucles
 On/sobre algo que toca el suelo
 Over/sobre algo que no toca el suelo
 self/uno mismo-yo
+flat/Plano
+inside/entre/en el interior
+quotes/comillas
+try/tratar-intentar
 ___________________________________________________________________________________________________________________
 
 [*] = datos importantes

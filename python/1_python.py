@@ -41,7 +41,6 @@ Los datos booleanos deben escribirse con mayúscula incicial: True, False
 
 Con type podemos saber el tipo de dato que estamos manejando
 
-
 type(7)
 type(7.5)
 type("Hola")
