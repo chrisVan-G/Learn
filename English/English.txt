@@ -1,4 +1,5 @@
-Inglés
+
+Inglés MinTic
 
 Ciclo tres Mision Tic 2022
 ___________________________________________________________________________________________________________________
@@ -110,6 +111,29 @@ Ordinal numbres (primero, segundo, tercero...)
 Cardinal numbres (1,2,3...)
 
 Use for: dates, centuries, sequence/order, floors of a building
+
+1 one / first 1st
+2 two / second 2nd
+3 three / third 3rd
+4 four / fourth 4th
+5 five / fifth 5th
+6 six / sixth 6th
+7 seven / seventh 7th
+8 eight / eighth 8th
+9 nine / ninth 9th
+10 ten / tenth 10th
+11 eleven / eleventh 11th
+12 twelve / twelfth 12th
+13 thirteen / thirteenth 13th
+14 fourteen / fourteenth 14th
+15 fifteen / fifteenth 15th
+16 sixteen / sixteenth 16th
+17 seventeen / seventeenth 17th
+18 eighteen / eighteenth 18th
+19 nineteen / nineteenth 19th
+20 twenty / twentieth 20th
+21 twenty - one / twenty - first 21st(el 20 queda normal y se modifica el segundo número para quedar como ordinal)
+100 hundred / hundreth 100th
 
 5 five (cardinal number) - fifth (ordinal number)
 12 twelve (cardinal number) - twelfth (ordinal number)
@@ -986,10 +1010,159 @@ Text types
 4. Expository
 5. Argumentative / Persuasive
 
-
-(Once) Clase número 11 fecha 06-12-2021
-
 [*] Tabla de parts of speech en unidad 6 de los pdf
+
+___________________________________________________________________________________________________________________
+
+Inglés Upb
+
+MyElt herramienta para estudiar inglés user christian.vanegas psw 1151x2Upb
+email christian.vanegas@upb.edu.co psw 1151x2Up* 
+sigaa id Upb 000466012 psw 1151x2Up*
+
+(1) Introductory
+
+Slow please/eslou plis/por favor despacio, lento por favor
+I don't understand/i ron onderstand/no entiendo
+miss/señorita, profesora
+Repeat please/rrepit plis/repite por favor
+I don't know/ai dont nou/no sé
+How can i say... in english?/jou ken ai sei...in inlish/¿cómo puedo decir...en inglés?
+What's the meaning of...?/wats de mining of...?/¿cuál es el significado de...?
+How do you say... in english?/how du iu sei...in inglish/¿cómo se dice...en ingléss?
+I don't remember/ai dont rimemba/no recuerdo
+One moment please/uan moment plis/un momento por favor
+I forgot/ai forgat/lo olvidé
+I have a question/ai jav a cuestion/tengo una preguntas
+His/her name is/su(el/ella) nombre es
+Thank you very mmuch/tank iu veri mach/muchas gracias
+With pleasure/wit plechur/con gusto
+___________________________________________________________________________________________________________________
+
+Personal information
+
+I'm Christian, i'm 31 years old
+My full name is Christian Vanegas Ecavarría
+surname = Vanegas
+you can call me Chris
+My hometown is Gómez Plata, Ant.
+I'm colombian, i live in Bello, Ant. I live at a house
+there are many people in my family, my wife, three brothers, mother, grandma, uncles, cousins and others.
+my birthday is on july 6th, my phone number is 3001254657 # El cero se dice 'ou'
+
+What do you do?/¿a qué te dedicas?
+I'm a pharmacist
+___________________________________________________________________________________________________________________
+
+WH questions
+
+what: cuál/qué? (things) para preguntar por cosas
+who: quién? (people) preguntar por personas - who is / ¿quién es? // who are / ¿quines son?
+where: Donde? (places) para preguntar por lugares
+when: cuando? (time)
+how: cómo? (ways) formas o maneras de hacer algo
+which: qué/cuál? (options)
+___________________________________________________________________________________________________________________
+
+Preguntas sobre como estas
+
+How's it going? / ¿cómo estas? -  ¿cómo te va? / jas it going
+How're you doing? / ¿cómo estas? / jau ri iu duing  
+Hows's everything? / ¿cómo va todo? / jaus ebriting
+What's going on? / ¿qué hay de nuevo? - ¿qué está sucediendo? / uas goinon
+What's new? / ¿qué hay de nuevo? / wats niu
+How do you do? / ¿cómo estás? / jau do iu du
+
+
+Respuestas a preguntas sobre como estas
+
+I'm great/aim greit/estoy genial
+understood/anderstud/entendido
+It's ok/está bien
+Go a get/ir a buscar
+
+Favorite
+
+My favorite movie is avatar, is great
+My favorite actors are Denzel Washington, Will Smith, All Pacino, Robert De Niro.
+I like rock music
+
+What/cuál? - Who/quién?
+Who is/quién es? - is only one 
+Who are/quienes son? - many
+actor(is) or actors(are)
+
+Cuando una palabra en inglés termina en 'e' está letra no se prornuncia
+
+Conjugaciones
+
+I read - do
+You read - do
+She reads - does
+He reads - does
+It reads - does
+We read - do
+You read - do
+They read - do
+
+Excepciones Be(ser-estar) se conjiga con am-are-is
+
+Cuando en una conversación debo dar la información de otra persona (he, she) debo ponerle la 's' a la acción(verbo)
+=> En preguntas y negación no necesito la 's' para la conjugación de la tercera persona
+
+Lina/she says lies / Ella dice mentiras
+He likes listening to music in the phone
+They like going to concerts
+
+Cuando tenemos 2 verbos en una oración, ejemplo:
+
+I like playing soccer / me gusta jugar futbol # El segundo verbo debe ir con ing para su correcta conjugación
+I love singing / amo cantar
+I hate eating out / odio comer fuera
+I don't like eating ... / no me gusta comer ...
+
+Uso del BE
+
+I want to be the best dad in the world / quiero ser el mejor papa del mundo
+Cuando usamos el verbo BE sin conjugar siempre debe ir el 'to' antes del verbo
+I want to be in Japon / quiero estar en Japon
+
+Para expresar gustos se utilizan = [like, love, hate]
+love: me encanta
+
+What does Kumar/he like? / ¿Qué le gusta a Kumar?
+What do Sean and Kim/they? / ¿Qué hacen Sean y Kim?
+what doesn't Simon like? / ¿Qué no le gusta a Simón?
+
+DO = puede ser verbo(hacer) o auxiliar(como auxiliar no significa nada pero se emplea para hacer preguntas)
+El verbo BE para hacer preguntas no necesita auxiliares => What is you name?, where are your friends?
+
+
+<!-- Seguir en este punto -->
+
+___________________________________________________________________________________________________________________
+
+(2) Acces
+___________________________________________________________________________________________________________________
+
+Verbs/verbos
+
+learn/aprender/lern ------ sell/veneder/sel ----------- watch/mirar/watch --------
+work/trabajar/work  ------ wait/esperar/ueit ---------- wash/lavar/wash ----------
+use/usar/ius ------------- wear/degustar/user --------- listen/escuchar/lisen ----
+have/tener/jav ----------- eat/comer/it --------------- do/hacer/du --------------
+dance/bailar/dans -------- drive/conducir/draiv ------- be/ser-estar/bi ----------
+sing/cantar/sing --------- buy/comprar/bai ------------ love/amar/lov ------------
+speak/hablar/spik -------- paint/pintar/peint --------- drink/beber/drink --------
+run/correr/ran ----------- start/comenzar/start ------- pay/pagar/pei ------------
+open/abrir/open ---------- finish/terminar/finish ----- think/pensar/sinc --------
+dream/soñar/drim --------- spend/gastar/spand --------- try/intentar/trai --------
+say/decir/sei ------------ talk/hablar/tok ------------ walk/caminar/wok ---------
+tell/contar/tel ---------- give/dar/guev -------------- read/leer/rid ------------
+know/conocer/nou --------- get/obtener/gat ------------ hate/odiar/jeit-----------
+play/jugar/plei ---------- forgive/perdonar/forguiv ---
+come/venir/com ----------- cut/cortar/cat -------------
+write/escribir/brait ----- add/agregar-adicionar/ad ---
 
 ___________________________________________________________________________________________________________________
 
@@ -1031,6 +1204,10 @@ flat/Plano
 inside/entre/en el interior
 quotes/comillas
 try/tratar-intentar
+life/laif/vida - live/liv/vivir
+then/luego
+wrong/equivocado
+like/gustar ó tambíen es "como" de respuesta
 ___________________________________________________________________________________________________________________
 
 [*] = datos importantes
