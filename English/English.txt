@@ -1056,12 +1056,17 @@ ________________________________________________________________________________
 
 WH questions
 
-what: cuál/qué? (things) para preguntar por cosas
+what: cuál/qué? (things) para preguntar por cosas/acciones
 who: quién? (people) preguntar por personas - who is / ¿quién es? // who are / ¿quines son?
 where: Donde? (places) para preguntar por lugares
 when: cuando? (time)
 how: cómo? (ways) formas o maneras de hacer algo
 which: qué/cuál? (options)
+why: por qué?/de pregunta
+
+Estructura de una pregunta
+WH + Aux + person + verb + compl? 
+Aux + person + verb + compl?
 ___________________________________________________________________________________________________________________
 
 Preguntas sobre como estas
@@ -1137,6 +1142,137 @@ what doesn't Simon like? / ¿Qué no le gusta a Simón?
 DO = puede ser verbo(hacer) o auxiliar(como auxiliar no significa nada pero se emplea para hacer preguntas)
 El verbo BE para hacer preguntas no necesita auxiliares => What is you name?, where are your friends?
 
+Does Pilar like cooking? 
+-No, she doesn't / yes, she does
+
+listening siempre va acompañado de 'to', ex/ listening to me
+
+How about you? /qué hay de ti?(según el tema del que se está hablando)/jaur abaut iu 
+
+[*] Nunca en una pregunta puede estar el verbo 'be' con un auxiliar 
+Las preguntas de información van con WH questions mientras que las de SI/NO inician con un auxiliar
+
+Is horror your favorite sort of movies?
+
+Conjugación
+
+Acciones terminadas en = [sh, ch, x] les agrego 'es'
+ex/ 
+finish - finishes
+relax - relaxes
+
+Be/do/have tienen diferencias en la conjugación
+
+be = [am, are, is]
+do = [do, does]
+have = [have, has]
+Cambian en la tercera persona (she, he, it)
+
+Adjetivos posesivos = [her, his]
+
+Para el uso de your, his, her tener presente => Si estoy hablando con la persona a la cual me refiero uso 'your',
+mientras que si estoy hablando con alguien sobre otra persona uso 'his' o 'her'.
+
+singular = {
+    this: eso(a) para cosas cercanas
+    that: eso(a) para cosas lejanas
+}
+
+plural = {
+    these: esos(as) para cosas cercanas
+    those: esos(as) para cosas lejanas
+}
+
+
+Contractions (short words)
+
+we are => we're/wir
+they are => they're/deir
+
+El no canta/he doesn't sing! # utilizo 'don't' y 'doesn't' para decir 'no'
+
+[*] be es ser literal o estar literal
+
+
+Spending habits/hábitos de consumo
+
+What do you like to buy? / ¿Qué te gusta comprar?
+I like to buy = {
+    food, books, games,t-shirts, clotes, tecnology, jewerly, video games, fornitures, toiletries    
+}
+
+How often do you go shopping? / ¿Con qué frecuencia va de compras?
+- I go shopping sometimes / voy de compras a veces
+
+Where do you like to shop? / ¿Dónde te gusta ir de compras?
+- I like shop in the downtown of the city / Me gusta comprar en el centro de la ciudad
+
+What do you spend your money on? / ¿En qué gastas tu dinero?
+- I don't spend my money in nothing by pandemy
+
+What do you spend lot of money on? / ¿En qué gastas mucho dinero?
+- I spend a lot of money on bussineses like criptocoins
+
+Have you ever ...? / alguna vez has ...?
+do you ever shop online? / ¿alguna vez compras en línea?
+- i usually shop online
+
+once/una vez
+twice/dos veces
+three times/tres veces
+
+How many times at year do you buy shoes? / ¿Cuántas veces al año compras zapatos?
+
+buy/comprar - shop/ir de compras
+when tambíen puede usarse como 'cuando' en respuestas
+
+Dream job / trabajo soñado
+
+I want to be programmer / quiero ser programador
+
+Uso 'a' o 'an'
+Si la palabra que sigue inicia con vocal uso => an
+Si la palabra que sigue inicia con consonante uso => a
+
+What do you do? / ¿A qué te dedicas?
+what do you want to be? / ¿Qué quieres ser?
+
+para describir como es algo usamos like ex/ what's your job like? / ¿Cómo es tu trabajo?
+
+be like / como es
+like / gustos
+would like / como sería => la contracción de would es 'd ex/ you'd you like eating out? / ¿Te gustaría comer fuera?
+
+What do you like about ...? / Qué te gusta de ...?
+what would you like to be? / ¿Qué te gustaría ser?
+what job would you like? / ¿qué trabajo te gustaría?
+what does she do? / ¿Qué hace ella?
+what that he do here? / ¿Qué es lo que hace aquí?
+
+Sí a un verbo lo ponemos el 'er' lo convertimos en un sujeto ex/ teach/enseñar =>teacher/profesor 
+Sí necesito decir ella enseña, como teach termina en 'ch' debo adicionar 'es' ex/ she teaches 
+Bibiana is a seller. She sells clothes
+
+
+Conjugación 
+
+Acciones terminadas en = [y] les agrego la 'i' y luego 'es'
+
+Recordar => Sí la acción la ejecuta una tercera persona, debo adicionar al verbo en su terminación la 's'
+ex/
+dry - dries
+Santiago plays guitar / santiago toca la guitarra
+Diana listens to music / diana escucha musica
+Jhon sells clothes / Jhon vende ropa
+
+Excepción => Sí termina en 'y' y antes de esa letra hay una vocal no cambia ex/
+play - plays
+buy - buys
+
+Isis(cat) plays with its ball / Isis juega con su pelota # its es su para el it utilizado en animales y cosas
+
+
+
 
 <!-- Seguir en este punto -->
 
@@ -1147,8 +1283,8 @@ ________________________________________________________________________________
 
 Verbs/verbos
 
-learn/aprender/lern ------ sell/veneder/sel ----------- watch/mirar/watch --------
-work/trabajar/work  ------ wait/esperar/ueit ---------- wash/lavar/wash ----------
+learn/aprender/lern ------ sell/veneder/sel ----------- watch/mirar/watch -------- need/necesitar/nid----
+work/trabajar/work  ------ wait/esperar/ueit ---------- wash/lavar/wash ---------- 
 use/usar/ius ------------- wear/degustar/user --------- listen/escuchar/lisen ----
 have/tener/jav ----------- eat/comer/it --------------- do/hacer/du --------------
 dance/bailar/dans -------- drive/conducir/draiv ------- be/ser-estar/bi ----------
@@ -1160,9 +1296,9 @@ dream/soñar/drim --------- spend/gastar/spand --------- try/intentar/trai -----
 say/decir/sei ------------ talk/hablar/tok ------------ walk/caminar/wok ---------
 tell/contar/tel ---------- give/dar/guev -------------- read/leer/rid ------------
 know/conocer/nou --------- get/obtener/gat ------------ hate/odiar/jeit-----------
-play/jugar/plei ---------- forgive/perdonar/forguiv ---
-come/venir/com ----------- cut/cortar/cat -------------
-write/escribir/brait ----- add/agregar-adicionar/ad ---
+play/jugar/plei ---------- forgive/perdonar/forguiv --- share/compartir/cherd ----
+come/venir/com ----------- cut/cortar/cat ------------- carry/llevar-cargar/kerri-
+write/escribir/brait ----- add/agregar-adicionar/ad --- teach/enseñar/tich -------
 
 ___________________________________________________________________________________________________________________
 
@@ -1207,7 +1343,22 @@ try/tratar-intentar
 life/laif/vida - live/liv/vivir
 then/luego
 wrong/equivocado
-like/gustar ó tambíen es "como" de respuesta
+like/gustar ó también es "como" de respuesta
+really/en serio - realmente
+yeah/en serio
+amazing/asombroso(a)
+so much/mucho
+kind-type-sort/tipo 
+neighborhood/barrio
+foreing/extranjero(a)
+market street/Calle del mercado
+city mall/centro comercial
+sure/seguro-por supuesto/chor
+save/ahorrar-guardar
+environment/medio ambiente
+also/además
+both/ambos(as)
+house wife/ama de casa
 ___________________________________________________________________________________________________________________
 
 [*] = datos importantes
