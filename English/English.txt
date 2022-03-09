@@ -4,6 +4,49 @@ Inglés MinTic
 Ciclo tres Mision Tic 2022
 ___________________________________________________________________________________________________________________
 
+Nacionalities # Los paises y nacionalidades se escriben con mayúscula inicial
+
+Country/Nacionality 
+Argentina/Argentinian
+Chile/chilean
+China/Chinese
+Germany/German
+Brazil/Brazilian
+Spain/Spanish
+United Kingdom/British or English
+Japan/Japanese
+Greece/Greek
+Peru/Peruvian
+
+Where are you from? / ¿De donde eres?
+- I'm from Colombia
+- I'm Colombian
+
+where is she from? / ¿de donde es ella? # she puede ser reemplazado por el nombre de una persona
+
+Are you here? / ¿Estás aquí?
+what do you learn today? / ¿qué aprendiste hoy?
+where are your parents from? / ¿de donde son tus padres?
+
+# Los pronombres son palabras que pueden reemplazar nombres de sujetos
+
+Jobs
+
+advertiser(publicitsa) - entrepreneur(emprendedor) - journalist(periodista) - engineer(ingeniero(a)) - mechanist(mecanico)
+nurse(enfermero(a))
+
+Introducing other people / Presentando a otras personas
+
+Hello everybody
+He's my brother Andres, he's 25 years old, he lives in Medellin, he's a entrepreneur, he is Brazilian,
+She's Pilar, Pilar is mmy wife, she is 26, she is pharmacist, she lives in Bello Ant, she works in Colsubsidio
+
+
+
+# Voy en este punto
+
+___________________________________________________________________________________________________________________
+
 (Dos) Clase número 2 fecha 09-09-2021 
 
 Unidad número 2 Past simple
@@ -134,6 +177,12 @@ Use for: dates, centuries, sequence/order, floors of a building
 20 twenty / twentieth 20th
 21 twenty - one / twenty - first 21st(el 20 queda normal y se modifica el segundo número para quedar como ordinal)
 100 hundred / hundreth 100th
+1000 one thousand
+100.000 one hundred thousand
+63.500 sixty-three thousand five hundred
+849.641 eight hundred forty-nine thousand six hundred forty-one
+
+El cero se lee 'ou'
 
 5 five (cardinal number) - fifth (ordinal number)
 12 twelve (cardinal number) - twelfth (ordinal number)
@@ -1041,7 +1090,7 @@ ________________________________________________________________________________
 
 Personal information
 
-I'm Christian, i'm 31 years old
+I'm Christian, i'm 31 years old # Puedo decir i'm 31 (sin usar el 'years old' y estaría bien)
 My full name is Christian Vanegas Ecavarría
 surname = Vanegas
 you can call me Chris
@@ -1077,7 +1126,7 @@ Hows's everything? / ¿cómo va todo? / jaus ebriting
 What's going on? / ¿qué hay de nuevo? - ¿qué está sucediendo? / uas goinon
 What's new? / ¿qué hay de nuevo? / wats niu
 How do you do? / ¿cómo estás? / jau do iu du
-
+How are you today? / ¿Cómo estás hoy?
 
 Respuestas a preguntas sobre como estas
 
@@ -1101,14 +1150,15 @@ Cuando una palabra en inglés termina en 'e' está letra no se prornuncia
 
 Conjugaciones
 
-I read - do
-You read - do
-She reads - does
-He reads - does
-It reads - does
-We read - do
-You read - do
-They read - do
+I(yo) read - do
+You(tu) read - do
+She(ella) reads - does
+He(el) reads - does
+It(eso, ello, le, lo, la) reads - does # it es para lugares, objetos, tiempo
+We(nosotros(as)) read - do
+You(usted(es)) read - do
+They(ellos(as)) read - do # they se puede usar para pluralizar el it ejemplo: the universities(para referirme a las universidades uso they)
+they're amazing (they hace referencia a las universidades) 
 
 Excepciones Be(ser-estar) se conjiga con am-are-is
 
@@ -1186,6 +1236,7 @@ plural = {
 
 Contractions (short words)
 
+# am not no tiene contracción
 we are => we're/wir
 they are => they're/deir
 
@@ -1239,9 +1290,9 @@ what do you want to be? / ¿Qué quieres ser?
 
 para describir como es algo usamos like ex/ what's your job like? / ¿Cómo es tu trabajo?
 
-be like / como es
+be like / como es / para describir algo
 like / gustos
-would like / como sería => la contracción de would es 'd ex/ you'd you like eating out? / ¿Te gustaría comer fuera?
+would like / gustaría => la contracción de would es 'd ex/ you'd like eating out? / te gustaria salir a comer?
 
 What do you like about ...? / Qué te gusta de ...?
 what would you like to be? / ¿Qué te gustaría ser?
@@ -1271,14 +1322,28 @@ buy - buys
 
 Isis(cat) plays with its ball / Isis juega con su pelota # its es su para el it utilizado en animales y cosas
 
+Questions
 
+1. information
+WH = what-wich-when-where-who-how
+2. yes/no
+do, does - be(am. are, is)
 
+wh/auxiliary + subject + verb + compl
 
-<!-- Seguir en este punto -->
+what does she want to do? / ¿que quiere hacer ella?
+where do they work on weekends? / ¿Dónde trabajan los fines de semana?
+do you study english? / ¿Estudias inglés?
+when is your birthday? / ¿cuando es tu cumpleaños?
 
+[*] Las preguntas siempre deben llevar auxiliar o verbo to be, pero no puden ir juntos
+[*] Ni en preguntas ni en negaciones se pone la 's' para conjugar en la tercersa persona, solo es para afirmaciones
+
+what's the man's job? / ¿Cuál es el trabajo del hombre?
 ___________________________________________________________________________________________________________________
 
 (2) Acces
+
 ___________________________________________________________________________________________________________________
 
 Verbs/verbos
@@ -1359,6 +1424,11 @@ environment/medio ambiente
 also/además
 both/ambos(as)
 house wife/ama de casa
+wasteful/gastar mucho
+secondhand/segunda mano
+same old/lo mismo de siempre
+teen/adolescente
+some/algunos
 ___________________________________________________________________________________________________________________
 
 [*] = datos importantes
