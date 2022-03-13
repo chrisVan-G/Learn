@@ -1107,8 +1107,8 @@ WH questions
 
 what: cuál/qué? (things) para preguntar por cosas/acciones
 who: quién? (people) preguntar por personas - who is / ¿quién es? // who are / ¿quines son?
-where: Donde? (places) para preguntar por lugares
-when: cuando? (time)
+where: dónde? (places) para preguntar por lugares
+when: cuándo? (time)
 how: cómo? (ways) formas o maneras de hacer algo
 which: qué/cuál? (options)
 why: por qué?/de pregunta
