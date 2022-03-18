@@ -12,17 +12,20 @@
     }
   </style>
   <link rel="stylesheet" href="assets/styles.css" />
+
   <body>
     <header id="inicio"><strong>Metal Bands</strong></header>
     <hr />
-    <details open> <!-- Con el atributo open puedo tener este details desplegado-->
+    <details open>
+      <!-- Con el atributo open puedo tener este details desplegado-->
       <summary>Contenido</summary>
-      <br>
+      <br />
       <article>En esta página enceuntras:</article>
       <ol>
         <li>Bandas</li>
         <li>Clasificación por paises</li>
         <li>Multimedia Metal</li>
+        <li>Ubiación geográfica</li>
         <li>Otros</li>
       </ol>
     </details>
@@ -129,15 +132,37 @@
         </tr>
       </tfoot>
     </table>
-    <hr>
+    <hr />
     <h2>Multimedia Metal</h2>
-    <audio src="media/03 - For Whom The Bell Tolls.mp3" controls preload="auto"></audio><!-- Atributos autoplay, loop, muted, preload -->
-    <br><br>
-    <video id="video" src="media/pexels-cottonbro-5659545.mp4" controls preload="auto"></video><!-- Tiene las mismas etiquetas que audio pero ademas tiene poster -->
+    <audio
+      src="media/03 - For Whom The Bell Tolls.mp3"
+      controls
+      preload="auto"
+    ></audio>
+    <!-- Atributos autoplay, loop, muted, preload -->
+    <br /><br />
+    <video
+      id="video"
+      src="media/pexels-cottonbro-5659545.mp4"
+      controls
+      preload="auto"
+    ></video>
+    <!-- Tiene las mismas etiquetas que audio pero ademas tiene poster -->
     <hr />
     <button onclick="alert('Has terminado tu recorrido')">Atencion</button>
     <!-- Recibe eventos como onclick, onchange, otros...-->
     <!-- Usar eventos en el html no es una buena práctica -->
+    <hr />
+    <!-- Los iframes ueden ser páginas, ficheros, pdf, videos de youtube -->
+    <h2>Ubiación geográfica</h2>
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d158858.182370726!2d-0.10159865000000001!3d51.52864165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a00baf21de75%3A0x52963a5addd52a99!2sLondres%2C%20Reino%20Unido!5e0!3m2!1ses!2sco!4v1647617869218!5m2!1ses!2sco"
+      width="600"
+      height="450"
+      style="border: 0"
+      allowfullscreen=""
+      loading="lazy"
+    ></iframe>
     <hr />
     <footer>
       Derechos reservados nn.co | Estudio de html | 2022 |
