@@ -1342,15 +1342,55 @@ when is your birthday? / ¿cuando es tu cumpleaños?
 what's the man's job? / ¿Cuál es el trabajo del hombre?
 ___________________________________________________________________________________________________________________
 
-(2) Acces
+(2) Access
+
+Nice to see you / me alegro de verte
+
+Para algunos verbos regulares que terminan en o, ch, sh, th, ss, gh, or z 
+En la tercera persona al conjugarse debe terminar en "-es" ex: he does
+
+I am pretty good AT driving motorcycle/Soy bastante bueno conduciendo motocicletas
+I am good AT cooking ajiaco/soy bueno cocinando ajiaco
+I am really bad AT playing guitar/soy muy malo para tocar la guitarra
+I am really good AT .../Soy muy bueno en...
+
+Siempre que hay una preposición como (at, for) antes de un verbo, el verbo va con ING
+
+Thank you for travelling with us/Gracias por viajar con nosotros
+
+Can and can't
+
+Se usa para hablar sobre habilidades - i can drive a car
+El verbo que viene después del CAN no debe cambiar - i can ride
+La forma negativa puede ser - can not or can't
+
+Se conjuga igual en todas las personas, y el verbo que viene después de el va en su forma simple(infinitivo)
+Ex:
+I can sing------ she can't sing
+I can't dance--- can you speak Korean? -yes, i can or no, i can't
+She can dance--- what languajes can you speak? - i can speak Spanish and English.
+
+El CAN no necesita auxiliar en las preguntas ya que es verbo y auxiliar 
+
+Can you run for a long Time?/¿Puedes correr durante mucho tiempo?
+What can we do for learning english fast?/¿Qué podemos hacer para aprender inglés rápido?
+Can you eat fish?/¿Puedes comer pescado?
+
+Tener presente que cuando me hacen preguntas debo responder en la forma que me preguntan, si lo hacen con CAN
+respondo usando CAN, etc...
+
+Homework Unidad 4 myElt estudiar glosario
+
+<-- Really bad  | not very good  | good  | pretty good  | very good -->
+<-- Muy mal     | No muy bien/bueno  | bien | Bastante bien/bueno  | muy bien/bueno -->
 
 ___________________________________________________________________________________________________________________
 
 Verbs/verbos
 
 learn/aprender/lern ------ sell/veneder/sel ----------- watch/mirar/watch -------- need/necesitar/nid----
-work/trabajar/work  ------ wait/esperar/ueit ---------- wash/lavar/wash ---------- 
-use/usar/ius ------------- wear/degustar/user --------- listen/escuchar/lisen ----
+work/trabajar/work  ------ wait/esperar/ueit ---------- wash/lavar/wash ---------- take/tomar/teik-------
+use/usar/ius ------------- wear/degustar/user --------- listen/escuchar/lisen ---- make/hacer/meic-------
 have/tener/jav ----------- eat/comer/it --------------- do/hacer/du --------------
 dance/bailar/dans -------- drive/conducir/draiv ------- be/ser-estar/bi ----------
 sing/cantar/sing --------- buy/comprar/bai ------------ love/amar/lov ------------
@@ -1429,6 +1469,10 @@ secondhand/segunda mano
 same old/lo mismo de siempre
 teen/adolescente
 some/algunos
+messess/desorden
+skills/habilidades
+jugglers/malabaristas
+advice/concejo
 ___________________________________________________________________________________________________________________
 
 [*] = datos importantes
