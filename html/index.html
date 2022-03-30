@@ -5,7 +5,18 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>metalSpace</title>
+  <meta name="description" content="Página de aprendizaje sobre marcado con html" >
   <link rel="icon" href="images/guitar.png" />
+  <link rel="apple-touch-icon" href="images/guitar.png" />
+  <link rel="canonical" href="http://tudominio.com/la-url-canonica">
+  <meta name="theme-color" content="#FF6600"> <!-- Cambia el color de la barra de navegación en dispositivos móviles -->
+  <meta property="og:title" content="metalSpace">
+  <meta property="og:description" content="Página de aprendizaje sobre marcado con html">
+  <meta property="og:image" content="http´://tudominio.com/ubicacion-img">
+  <meta property="og:url" content="http´://tudominio.com/index.html">
+  <!-- og image y url deben contener la ruta del dominio donde se encuentre nuestro fichero html-->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@userTwitter">
 </head>
 <style>
   h2 {
@@ -224,9 +235,7 @@
     <!--- Cuando un formulario queda sin el action se envian a la misma página los datos -->
     <p>Elige tu idioma</p>
     <select name="idioma" required>
-      <option value="">
-        Elige una opción
-      </option>
+      <option value="">Elige una opción</option>
       <option value="es">Español</option>
       <option value="en">Inglés</option>
       <option value="fr" selected>Francés</option><!-- La opción selected solo debe ir una vez -->
@@ -252,7 +261,49 @@
     <input type="reset">
   </form>
   <br>
+  <h4>Formulario de contacto</h4>
+  <form action="https://formsubmit.co/chrisvaec@gmail.com" method="POST">
+    <input type="text" name="nombre" placeholder="Escribe tu nombre" pattern="^[A-Za-zÑñÁáÉéÍíÓóÚúÜü\s]+$"
+      title="Nombre sólo acepta letras y espacios en blanco" required>
+    <br>
+    <input type="email" name="correo" placeholder="Escribe tu correo" pattern="^(\w+[/./-]?){1,}@[a-z]+[/.]\w{2,}$"
+      title="Formato de correo inválido" required>
+    <br>
+    <textarea name="comentarios" cols="30" rows="10" required></textarea>
+    <br>
+    <input type="submit">
+  </form>
+  <!-- este servicio sin la necesidad de programación me permite enviar la información del formulario a un correo electronico https://formsubmit.co/ 
+   solo funciona con servidores por eso en este caso debemos abrir el fichero con live server desde vsc-->
+  <br>
+  <hr>
+  <h2>Data Attributes</h2>
+  <ul>
+    <li data-id="1" data-name="brazil">Brasil</li> <!-- Para crearlos sisempre deben iniciar por data-(lo demás es a necesidad) -->
+    <li data-id="2" data-name="argentina">Argentina</li>
+    <li data-id="3" data-name="uruguay">Uruguay</li>
+    <li data-id="4" data-name="ecuador">Ecuador</li>
+  </ul>
   <hr />
+  <h2>Meta-etiquetas para SEO</h2>
+  <hr>
+  <h2>Accesibilidad web</h2>
+  <h3 role="title">Estaciones del año</h3>
+   <ul role="list">
+     <li tabindex="1" role="listitem">Primavera</li>
+     <li tabindex="2" role="listitem">Verano</li>
+     <li tabindex="3" role="listitem">Otoño</li>
+     <li tabindex="4" role="listitem">Invierno</li>
+   </ul>
+   <a role="link" href="#" aria-label="En este enlace encontrarás más información sobre las estaciones del año" target="_blank">Más información...</a>
+  <!--
+    https://web.dev/accessible/
+    https://html5accessibility.com/
+    https://www.w3.org/blog/news/archives/8889
+    https://www.youtube.com/channel/UCU6ljj3m1fglIPjSjs2DpRA/videos
+  -->
+
+   <hr>
   <footer>
     Derechos reservados nn.co | Estudio de html | 2022 |
     <a href="mailto:chrisvaec@gmail.com">Correo electrónico</a>|
