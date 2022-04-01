@@ -1,8 +1,9 @@
 
-Inglés MinTic
+[(*)] Inglés MinTic
 
-Ciclo tres Mision Tic 2022
 ___________________________________________________________________________________________________________________
+
+[3] Ciclo tres Mision Tic 2022
 
 Nacionalities # Los paises y nacionalidades se escriben con mayúscula inicial
 
@@ -40,11 +41,6 @@ Introducing other people / Presentando a otras personas
 Hello everybody
 He's my brother Andres, he's 25 years old, he lives in Medellin, he's a entrepreneur, he is Brazilian,
 She's Pilar, Pilar is mmy wife, she is 26, she is pharmacist, she lives in Bello Ant, she works in Colsubsidio
-
-
-
-# Voy en este punto
-
 ___________________________________________________________________________________________________________________
 
 (Dos) Clase número 2 fecha 09-09-2021 
@@ -593,7 +589,7 @@ Un emprendedor requiere conocer como construir relaciones mediante la comunicaci
 como empleados e inversores, esto le llevará al exito en los negocios.
 ___________________________________________________________________________________________________________________
 
-Ciclo cuatro Mision Tic 2022
+[4] Ciclo cuatro Mision Tic 2022
 
 (Uno) Clase número 1 fecha 25-10-2021
 
@@ -1063,7 +1059,7 @@ Text types
 
 ___________________________________________________________________________________________________________________
 
-Inglés Upb
+[(*)] Inglés Upb
 
 MyElt herramienta para estudiar inglés user christian.vanegas psw 1151x2Upb
 email christian.vanegas@upb.edu.co psw 1151x2Up* 
@@ -1175,6 +1171,12 @@ I like playing soccer / me gusta jugar futbol # El segundo verbo debe ir con ing
 I love singing / amo cantar
 I hate eating out / odio comer fuera
 I don't like eating ... / no me gusta comer ...
+
+who is your favorite artist?/¿Quién es tu artista favorito?
+(singer, musician, writer, actor)
+how old is she/he?/¿cuántos años tiene ella/él?
+where is she/he from?/¿de dónde es ella/él?
+what does she/he do?/¿Qué hace ella/él?
 
 Uso del BE
 
@@ -1344,6 +1346,8 @@ ________________________________________________________________________________
 
 (2) Access
 
+(uno) Clase número 1 fecha 26-03-2022 
+
 Nice to see you / me alegro de verte
 
 Para algunos verbos regulares que terminan en o, ch, sh, th, ss, gh, or z 
@@ -1356,7 +1360,7 @@ I am really good AT .../Soy muy bueno en...
 
 Siempre que hay una preposición como (at, for) antes de un verbo, el verbo va con ING
 
-Thank you for travelling with us/Gracias por viajar con nosotros
+Thank you for travellING with us/Gracias por viajar con nosotros
 
 Can and can't
 
@@ -1379,11 +1383,19 @@ Can you eat fish?/¿Puedes comer pescado?
 Tener presente que cuando me hacen preguntas debo responder en la forma que me preguntan, si lo hacen con CAN
 respondo usando CAN, etc...
 
-Homework Unidad 4 myElt estudiar glosario
-
 <-- Really bad  | not very good  | good  | pretty good  | very good -->
 <-- Muy mal     | No muy bien/bueno  | bien | Bastante bien/bueno  | muy bien/bueno -->
 
+Homework Unidad 4 myElt estudiar vocabulario
+
+make friends/Hacer amigos
+give presentations/Dar presentaciones
+take photos/tomar fotos
+take tests/Tomar pruebas
+make decisions/tomar decisiones
+give advice/dar consejos
+
+(dos) Clase número 2 fecha 02-04-2022 
 ___________________________________________________________________________________________________________________
 
 Verbs/verbos
@@ -1473,6 +1485,13 @@ messess/desorden
 skills/habilidades
 jugglers/malabaristas
 advice/concejo
+wonder/preguntarse
+trouble/problema, apuro, dificultad
+afraid/temeroso(a)
+improve/mejorar
+chances/posibilidades
+hire/contratar
+advertisements/anuncios
 ___________________________________________________________________________________________________________________
 
 [*] = datos importantes
