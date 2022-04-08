@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS</title>
+    <link rel="stylesheet" href="style.css"><!-- Aplicación de estilos externo -->
+    <style>
+        /* Aplicación de estilos interno */
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        h1 {
+            color: yellowgreen;
+        }
+    </style>
+</head>
+
+<body>
+    <article id="tarjet-pseudoclases">
+        <h1>Aprendiendo CSS</h1>
+        <h2><i style="font-weight:bold; color:orangered">Cascading Style Sheets(CSS) - Hojas de estilo en cascada</i>
+        </h2>
+        <!-- Aplicación de estilos en linea -->
+    </article>
+    <hr>
+    <article>
+        <h2>Selectores básicos</h2>
+        <p>Es un lenguaje de definición de la presentación de los documentos html, html es el contenido y css es como se
+            visualiza ese contenido.</p>
+        <p id="parrafo-dos">Ni html ni css son lenguajes de programación</p>
+        <p class="text-32 bg-skyblue text-white">A futuro css va a evolucionar por modulos debido a su variedad de temas
+            de trabajo</p>
+        <!-- Tratar de que los nombres de las clases sean alusivos a lo que hacen -->
+    </article>
+    <hr>
+    <article>
+        <h2>Selectores avanzados</h2>
+        <h3>Selectores de hijos</h3>
+        <h4>Selector de hijos directos</h4>
+        <ul class="hijos-directos">
+            <li><b>Primavera</b></li>
+            <li><b>Verano</b></li>
+            <li><b>Otoño</b></li>
+            <li><b>Invierno</b></li>
+        </ul>
+        <h4>Selector de hijos descendientes</h4>
+        <ul class="hijos-descendientes">
+            <li><b>Primavera</b></li>
+            <li><b>Verano</b></li>
+            <li><b>Otoño</b></li>
+            <li><b>Invierno</b></li>
+        </ul>
+        <h3>Selectores de hermanos</h3>
+        <h4>Selector de hermanos(en general)</h4>
+        <ul>
+            <li><b>Primavera</b></li>
+            <li class="hermanos-general"><b>Verano</b></li>
+            <li><b>Otoño</b></li>
+            <li><b>Invierno</b></li>
+        </ul>
+        <h4>Selector de hermanos adyacente</h4>
+        <ul>
+            <li><b>Primavera</b></li>
+            <li class="hermanos-adyacentes"><b>Verano</b></li>
+            <li><b>Otoño</b></li>
+            <li><b>Invierno</b></li>
+        </ul>
+        <h3>Selectores de atributos</h3>
+        <nav class="selectores-atributos">
+            <ul>
+                <li><a href="https://jonmircha.com" target="_blank">Inicio</a></li>
+                <li"><a class="menu-item cursos button href=" http://jonmircha.com/cursos" target="_blank">Cursos</a>
+                    </li>
+                    <li><a href="https://jonmircha.com/blog" target="_blank">Blog</a></li>
+                    <li><a class="menu-item notas button href=" http://jonmircha.com/notas" target="_blank">Notas</a>
+                    </li>
+                    <li><a href="https://jonmircha.com/cv" target="_blank">CV</a></li>
+                    <li><a class="menu item ahora button href=" https://jonmircha.com/ahora" target="_blank">Ahora</a>
+                    </li>
+                    <li><a href="main.html">Regresar al Inicio</a></li>
+            </ul>
+        </nav>
+        <h3>Selector universal (*)</h3>
+        <ul class="selector-universal">
+            <li><b>Primavera</b></li>
+            <li><b>Verano</b></li>
+            <li><b>Otoño</b></li>
+            <li><b>Invierno</b></li>
+        </ul>
+        <hr>
+        <article class="pseudoclases">
+            <h2>Pseudoclases</h2>
+            <form class="form-pseudoclases">
+                <input type="text" name="nombre" placeholder="Escribe tu nombre" required>
+                <br><br>
+                <input type="email" name="correo" placeholder="Escribe tu correo" required>
+                <br><br>
+                <input type="submit" disabled>
+                <input type="submit">
+            </form>
+            <br><br>
+            <nav class="menu-pseudoclases">
+                <a href="#seccion1">Sección 1</a>
+                <a href="#seccion2">Sección 2</a>
+                <a href="#seccion3">Sección 3</a>
+                <a href="#seccion4">Sección 4</a>
+            </nav>
+            <p class="p-pseudoclases">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis maxime asperiores excepturi animi
+                explicabo dolor saepe soluta, ab sapiente recusandae adipisci velit! Fugiat laboriosam reprehenderit
+                eveniet dolorum deleniti nulla odit.
+            </p>
+            <a href="main.html#tarjet-pseudoclases">Volver al inicio</a>
+        </article>
+    </article>
+</body>
+
+</html>

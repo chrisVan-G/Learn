@@ -1464,11 +1464,11 @@ We are studying
 2. Like subject or Object
 We are watching
 Listening
-hapening
-e- ing
+happening/sucediendo
+cuando el verbo termine en e-  esta se suprime para el uso del ing 
 close/ closing
 give/giving
- Lie/ lying
+Lie/ lying
 
 Leonel is speaking
 
@@ -1514,8 +1514,168 @@ But I ain't (I’m not) done much healing
 4.	After a preposition
 This key is to opening the door.
 
-revisar este video y extraer las reglas para el uso del ing
+
+General Rule
+
 https://www.woodwardenglish.com/lesson/ing-spelling-rules/
+
+In general you just add -ING to the end of a verb.
+
+Infinitive	ING form
+to eat	eating
+to go	going
+to look	looking
+to read	reading
+I am eating
+They are going to the beach.
+He is looking at the painting
+She is reading a book.
+
+BUT there are some exceptions!
+
+-ING Spelling Exceptions
+Verbs ending in Consonant + E
+When a word ends in consonant + E, we remove the E from the end and add ING.
+
+Infinitive	ING form
+to dance	dancing
+to make	making
+to ride	riding
+to write	writing
+She is dancing.
+I am making a sandwich.
+He is riding his bike.
+Susan is writing a letter.
+
+Verbs ending in IE
+
+But when a word ends in I + E, we remove the IE from the end and add YING.
+
+Infinitive	ING form
+to die	dying
+to lie	lying
+to tie	tying
+
+Many people are dying from the virus.
+I know you are lying to me.
+He is tying his laces.
+
+Verbs with one syllable ending in consonant + vowel + consonant
+
+When a verb with one syllable ends in consonant + vowel + consonant, we double (make two of) the final consonant and add ING.
+
+Infinitive	ING form
+to cut	cutting
+to run	running
+to sit	sitting
+to stop	stopping
+to swim	swimming
+
+He is cutting an onion.
+They are running in the park.
+We are sitting on our chairs.
+The policeman is stopping the traffic.
+She is swimming in the pool.
+
+Verbs ending in W or X or Y
+
+When a word ends in a W, X or Y, we do NOT double that final letter before add ING. Notice how there is a vowel before each letter.
+
+Infinitive	ING form
+to enjoy	enjoying
+to fix	fixing
+to follow	following
+to play	playing
+to snow	snowing
+
+Are you enjoying the party?
+The mechanic is fixing the car.
+I think someone is following
+He is playing with his marbles.
+It is snowing right now.
+
+Last syllable NOT stressed
+
+When a verb has two or more syllables and the last syllable is NOT stressed, we do NOT double the final letter before adding ING.
+
+The verb OPEN has two syllables…. O + PEN.
+
+Since the first syllable is stressed (O-pen) and not the last syllable (we do not say o-PEN), we do not double the final N.
+So we just add ING to the end and it now becomes OPENING.
+
+Here are some more examples. Listen to how the last syllable of each verb is NOT stressed. Usually the first syllable is stressed.
+
+Infinitive	ING form
+to happen	happening
+to listen	listening
+to offer	offering
+to open	opening
+to visit	visiting
+to whisper	whispering
+
+What is happening right now?
+I am listening to the radio.
+My boss is offering me a new position.
+They are opening their presents.
+They are visiting the museum.
+They are whispering because the baby is asleep.
+
+EXCEPTION:
+
+The verb kidnap is an exception to this rule. The first syllable has the stress (KID-nap) we for this word we do double the final P.
+
+Kidnap -> kidnapping
+
+C+V+C Last syllable IS stressed
+
+When a verb has two or more syllables and ends in a consonant + vowel + consonant and the last syllable IS stressed, we double the final consonant before adding ING
+
+The verb BEGIN has two syllables…. BE + GIN.
+
+Since the last syllable is stressed (be-GIN) and not the first syllable (we do not say BE-gin), we double the final N.
+
+So we just add an extra N before ING and it now becomes BEGINNING.
+
+Here are some more examples. Listen to how the last syllable of each verb IS stressed.
+
+Infinitive	ING form
+to admit	admitting
+to begin	beginning
+to forget	forgetting
+to refer	referring
+to submit	submitting
+to upset	upsetting
+
+Admitting your mistake was a brave thing to do.
+She’s beginning to feel tired.
+I’m sure I am forgetting
+Are you referring to this one or that one?
+He is submitting a new proposal.
+I’m sorry for upsetting
+
+You can see we only double consonants in stressed syllables.
+
+Verbs ending in consonant + vowel + L
+
+There are two ways of spelling a verb ending in a consonant + vowel + L.
+
+In BRITISH English, you double the final L.
+In AMERICAN English, you do NOT double the final L unless it is stressed.
+
+The first syllable of the verb travel is stressed (TRA-vel)
+The last syllable of the verb control is stressed (con-TROL)
+
+Infinitive	ING form
+(British English)	ING form
+(American English)
+to equal	equalling	equaling
+to travel	travelling	traveling
+to control	controlling	controlling *
+* Notice how there is a double L in controlling in American English. That is because the last syllable of the verb control is stressed (con-TROL)
+
+Sales are currently equalling those the same time last year.
+There were travelling around Europe until the virus stopped everything.
+They are now controlling the company.
 
 (tres) Clase número 3 fecha xx-04-2022
 
@@ -1543,77 +1703,77 @@ ________________________________________________________________________________
 
 Terminology/Terminología
 
-happen/ocurrir
-wish/deseo
-thougth/pensamiento
-so/así que
-brought/trajo
-better/mejor
-rather/preferir (no lleva [to] luego de rather)
-prefer/preferir (lleva [to] luego de prefer)
-ask/pedir
-desire/deseo 
-instead/en lugar de
-mostly/principalmente
-done/hecho
-landscape/paisaje
-pranks/bromas
-early/temprano
-maybe/quizás
-before/antes de
-complaint/queja
-queue/cola
-leave/dejar
-crowd/multitud
-sunset/puesta de sol
-whether/ya sea
-Moreover/es más
-but/pero
-since/ya que
-Inheritance/Herencia
-loops/bucles
-On/sobre algo que toca el suelo
-Over/sobre algo que no toca el suelo
-self/uno mismo-yo
-flat/Plano
-inside/entre/en el interior
-quotes/comillas
-try/tratar-intentar
-life/laif/vida - live/liv/vivir
-then/luego
-wrong/equivocado
-like/gustar ó también es "como" de respuesta
-really/en serio - realmente
-yeah/en serio
-amazing/asombroso(a)
-so much/mucho
-kind-type-sort/tipo 
-neighborhood/barrio
-foreing/extranjero(a)
-market street/Calle del mercado
-city mall/centro comercial
-sure/seguro-por supuesto/chor
-save/ahorrar-guardar
-environment/medio ambiente
-also/además
-both/ambos(as)
-house wife/ama de casa
-wasteful/gastar mucho
-secondhand/segunda mano
-same old/lo mismo de siempre
-teen/adolescente
-some/algunos
-messess/desorden
-skills/habilidades
-jugglers/malabaristas
-advice/concejo
-wonder/preguntarse
-trouble/problema, apuro, dificultad
-afraid/temeroso(a)
-improve/mejorar
-chances/posibilidades
-hire/contratar
-advertisements/anuncios
+happen/ocurrir --------------------------------------- Throughout/a lo largo de, durante
+wish/deseo -------------------------------------------
+thougth/pensamiento ----------------------------------
+so/así que -------------------------------------------
+brought/trajo ----------------------------------------
+better/mejor -----------------------------------------
+rather/preferir (no lleva [to] luego de rather) ------
+prefer/preferir (lleva [to] luego de prefer) ---------
+ask/pedir --------------------------------------------
+desire/deseo -----------------------------------------
+instead/en lugar de ----------------------------------
+mostly/principalmente --------------------------------
+done/hecho -------------------------------------------
+landscape/paisaje ------------------------------------
+pranks/bromas ----------------------------------------
+early/temprano ---------------------------------------
+maybe/quizás -----------------------------------------
+before/antes de --------------------------------------
+complaint/queja --------------------------------------
+queue/cola -------------------------------------------
+leave/dejar ------------------------------------------
+crowd/multitud ---------------------------------------
+sunset/puesta de sol ---------------------------------
+whether/ya sea ---------------------------------------
+Moreover/es más --------------------------------------
+but/pero ---------------------------------------------
+since/ya que -----------------------------------------
+Inheritance/Herencia ---------------------------------
+loops/bucles -----------------------------------------
+On/sobre algo que toca el suelo ----------------------
+Over/sobre algo que no toca el suelo -----------------
+self/uno mismo-yo ------------------------------------
+flat/Plano -------------------------------------------
+inside/entre/en el interior --------------------------
+quotes/comillas --------------------------------------
+try/tratar-intentar ----------------------------------
+life/laif/vida - live/liv/vivir ----------------------
+then/luego -------------------------------------------
+wrong/equivocado -------------------------------------
+like/gustar ó también es "como" de respuesta ---------
+really/en serio - realmente --------------------------
+yeah/en serio ----------------------------------------
+amazing/asombroso(a) ---------------------------------
+so much/mucho ----------------------------------------
+kind-type-sort/tipo ----------------------------------
+neighborhood/barrio ----------------------------------
+foreing/extranjero(a) --------------------------------
+market street/Calle del mercado ----------------------
+city mall/centro comercial ---------------------------
+sure/seguro-por supuesto/chor ------------------------
+save/ahorrar-guardar ---------------------------------
+environment/medio ambiente ---------------------------
+also/además ------------------------------------------
+both/ambos(as) ---------------------------------------
+house wife/ama de casa -------------------------------
+wasteful/gastar mucho --------------------------------
+secondhand/segunda mano ------------------------------
+same old/lo mismo de siempre -------------------------
+teen/adolescente -------------------------------------
+some/algunos -----------------------------------------
+messess/desorden -------------------------------------
+skills/habilidades -----------------------------------
+jugglers/malabaristas --------------------------------
+advice/concejo ---------------------------------------
+wonder/preguntarse -----------------------------------
+trouble/problema, apuro, dificultad ------------------
+afraid/temeroso(a) -----------------------------------
+improve/mejorar --------------------------------------
+chances/posibilidades --------------------------------
+hire/contratar ---------------------------------------
+advertisements/anuncios ------------------------------
 ___________________________________________________________________________________________________________________
 
 [*] = datos importantes

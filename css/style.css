@@ -1,0 +1,160 @@
+
+/*
+Regla CSS - consta de 2 partes
+1. Selector
+2. Bloque de declaraciones(atributos a modificar){
+    atributo:valor;
+    atributo-de-mas-de-dos-palabras:otro-valor;
+}
+*/
+
+/*@import url(style_2.css);*/
+/* Son mala práctica ya que son bloqueantes al momento de que el navegador lee esta instrucción */
+
+h1 {
+    color: orangered;
+    background-color: black;
+}
+
+/*
+Selectores básicos
+1. Etiquetas - son elementos html
+2. Identificadores - atributo id - #
+3. Clases - atributo class - .
+*/
+
+p {
+    color: midnightblue;
+    /* Se corre el riesgo de que se aplique a todas las etiquetas de este tipo */
+}
+
+/* Dar estilos con ids se consdera un antipatrón(mala práctica) */
+
+#parrafo-dos {
+    background-color: skyblue;
+}
+
+
+/* Recomendación, maquetar con Clases, dar estilos con clases nos permite reutilizar nuestro código CSS */
+
+.text-32 {
+    font-size: 32px;
+}
+
+.bg-skyblue {
+    background-color: skyblue;
+}
+
+.text-white {
+    color: white;
+}
+
+.hijos-directos > li { /* Para hijos directos se utiliza > */
+    background-color: thistle;
+}
+
+.hijos-descendientes b { 
+/* Cuando no importa en nivel dentro del elemento padre comparado con el elemento al que le voy a aplicar estilos uso espacio en blanco */
+    background-color: thistle; 
+}
+
+/* Los selectores de hermanos van a aplicar a los elementos que son hermanos y que esten por debajo del elemento de referencia */
+.hermanos-general ~ li {
+    background-color: thistle;
+}
+
+.hermanos-adyacentes + li {
+    background-color: thistle;
+}
+
+/* Selectores de atributos */
+.selectores-atributos a[href] {
+    color: orangered;    
+}
+
+.selectores-atributos a[target="_blank"] {
+    font-weight: bold;
+}
+
+.selectores-atributos a[href*="jonmircha"] { 
+/* mientras en elemento contenga la palabra indicada(jonmircha) en cualquier parte, aplicará los estilos cuando usamos (*) */
+    font-size: 24px;
+}
+
+.selectores-atributos a[href^="http://"] { 
+/* El circunflejo(^) se saca con alt+94* y aplica los estilos cuando el texto inicia con el texto que nosotros indicamos */
+    text-decoration: none;
+}
+
+.selectores-atributos a[href$=".com"] { 
+/* El dolar($) aplica los estilos cuando el texto termina con el texto que nosotros indicamos */
+    background-color: black;
+}
+
+.selectores-atributos a[class~="cursos"]{
+/* El (~) aplica los estilos si contiene el texto indicado en una lista separada por espacios */
+    background-color: midnightblue;
+    color: white;
+}
+
+.selectores-atributos a[class|="menu"]{
+/* El (|) aplica los estilos si contiene el texto indicado en una lista separada por espacios y que después del texto en cuestion venga el - */
+    font-style: italic;
+}
+
+/* Selector universal */
+
+* {
+    font-family: sans-serif;
+}
+
+/* Uso de forma contextual del selector universal */
+
+.selector-universal * {
+    font-size: 24px;
+}
+
+/* Pseudoclases - dan estilos dependiendo del contexto, posición, o estado del elemento
+https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements */
+
+/* Las pseudoclases se distinguen porque empiezan por : */
+
+.form-pseudoclases *:required {
+    border-color: yellow;
+}
+
+.form-pseudoclases *:valid {
+    border-color: green;
+}
+
+.form-pseudoclases *:invalid {
+    border-color: red;
+}
+
+.form-pseudoclases *:focus {
+    background-color: skyblue;
+}
+
+.form-pseudoclases *:disabled {
+    color: aliceblue;
+    background-color: grey;
+}
+
+.menu-pseudoclases a:visited {
+    color: olive;
+}
+
+.menu-pseudoclases a:hover {
+    color: orange;
+}
+
+/* El estado hover aplica sobre cualquier etiqueta html */
+
+.p-pseudoclases:hover{
+    font-size: 20px;
+}
+
+#tarjet-pseudoclases:target{
+    background-color: lightgreen;
+}
+
