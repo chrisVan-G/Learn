@@ -114,7 +114,7 @@ p {
     font-size: 24px;
 }
 
-/* Pseudoclases - dan estilos dependiendo del contexto, posición, o estado del elemento
+/* Las pseudoclases(:) dan estilos dependiendo del contexto, posición, o estado del elemento
 https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements */
 
 /* Las pseudoclases se distinguen porque empiezan por : */
@@ -156,5 +156,89 @@ https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Selectors/Pseudo
 
 #tarjet-pseudoclases:target{
     background-color: lightgreen;
+}
+
+/* Aplicación de estilos por posición */
+
+.lista-pseudoclases li:first-child {
+    color: green;
+}
+
+.lista-pseudoclases li:last-child {
+    color: violet;
+}
+
+.lista-pseudoclases li:nth-child(3) { /* nth-child recibe un argumento donde menciono la posición del iten de la lista a modificar */
+    color: orangered;
+}
+
+.lista-pseudoclases li:nth-child(4n) { /* Con esta instrucción aplico estilos cada 4 posiciones */
+    font-size: 20px;
+}
+
+.lista-pseudoclases li:nth-child(3n + 1) {
+    font-weight: bold;
+}
+
+.lista-pseudoclases li:nth-child(even) { /* even es par*/
+    background-color: yellow;
+}
+
+.lista-pseudoclases li:nth-child(odd) { /* odd es impar*/
+    background-color: purple;
+}
+
+.articulo-pseudoclases p:first-of-type { /* primero en su tipo */
+    background-color: pink;
+}
+
+.articulo-pseudoclases p:last-of-type { /* último en su tipo */
+    background-color: pink;
+}
+
+.articulo-pseudoclases p:nth-of-type(3) {
+    background-color: fuchsia;
+}
+
+.articulo-pseudoclases *:not(p) { /* Aplica los estilos excepto al que este entre () */
+    background-color: beige;
+}
+
+/* Los pseudoelementos(::) dan estilos a partes específicas de un elemento ver MDN */
+
+.saga-geminis::before{ /* Con la tecla windows + . abro recuadro para usar emojis */
+    content: "♊";
+}
+
+.saga-geminis::after{
+    content: "🔵";
+}
+
+.saga-precio::before {
+    content: "$";
+    font-weight: bold;
+}
+
+.saga-precio::after {
+    content: "USD";
+    font-weight: bold;
+}
+
+.p-pseudoelementos::first-letter {
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.p-pseudoelementos::first-line {
+    color: coral;
+}
+
+.p-pseudoelementos::selection {
+    color: greenyellow;
+    background-color: black;
+}
+
+.input-pseudoelementos::placeholder {
+    color: green;
 }
 
