@@ -231,6 +231,9 @@ For years
 2021 two thousand twenty-one / twenty twenty-one
 el cero (0) se dice 'ou'
 
+Si solo voy a decir cien o cientos uso handred omitiendo el one ya que este se infiere ejemplo: hundred five = 105 (solo de forma hablada)
+aplica también para mil y millon
+
 Activity
 dd/mm/aa 
 16/09/2021 September 16th(sixteenth), 2021(twenty twenty-one) 
@@ -1719,23 +1722,47 @@ Hay que hacer la grabación de nuevo con las correcciones.
 
 Oral presentation
 
-a)
-Good morning everyone.
-I’d like to share with you my presentation.
-I'm Christian Vanegas
-b)
-I can ride motorciclyes
-I can run for a long time
-I can't hold my breath underwater
-I'm very good at playing basketball, i like very much this sport
-I'm not very good playing guitar
+Revisar unidad 5 de myElt
 
-I know a person what can 
+mine = mio
+with(wir) con - without(wiraut) sin
+really(en serio) - it's great(es genial)
 
-c)
+I like having a smartphone
+I'd like to get a game console
+I don't need a tablet
+I don't need an e-reader
+I like having a smart TV
+I don't need a smartwatch
+I don't need a personal drone
+I don't need universal remote
 
-<-- Really bad  | not very good  | good  | pretty good  | very good -->
-<-- Muy mal     | No muy bien/bueno  | bien | Bastante bien/bueno  | muy bien/bueno -->
+quite a lot//muchas(os)
+
+have had / he tenido
+
+Quantifiers
+
+Much - uncountable - use in interrogative and negative sentences
+Many - countable - use in interrogative and negative sentences
+a lot of(uncountable)/lots of (countable)- affirmative sentences
+a few - countable - affirmative sentences ( poco pero suficiente)
+few - countable - affirmative sentences (poco y no es suficiente)
+a little - uncountable - affirmative sentences ( poco pero suficiente)
+little - uncountable - affirmative sentences (poco y no es suficiente)
+
+monedas y billetes son contables, el dinero no
+las horas y minutos son contables, el tiempo no
+
+large quantities => much, many, a lot of
+small quantities => a few, a little
+
+left con un sustantivo denota que de este no queda mucho ejemplo: time left (tiempo restante) 
+points left(puntos restantes)
+amounts(montos)
+
+(cinco) Clase número 5 fecha 30-04-2022
+
 
 ___________________________________________________________________________________________________________________
 
@@ -1832,6 +1859,7 @@ improve/mejorar --------------------------------------
 chances/posibilidades --------------------------------
 hire/contratar ---------------------------------------
 advertisements/anuncios ------------------------------
+allow/permitir----------------------------------------
 ___________________________________________________________________________________________________________________
 
 [*] = datos importantes
