@@ -1,31 +1,139 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Modelo de caja en CSS</title>
-    <link rel="stylesheet" href="box-model.css">
-</head>
+    <link rel="stylesheet" href="box-model.css" />
+    <!--
+    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+    -->
+  </head>
 
-<body>
+  <body>
     <h1>Modelo de caja en CSS</h1>
     <p>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odio odit ipsam debitis earum sunt, mollitia saepe
-        fugit rem aperiam dignissimos in alias corrupti similique eum, veritatis molestias omnis, harum inventore.
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odio odit ipsam
+      debitis earum sunt, mollitia saepe fugit rem aperiam dignissimos in alias
+      corrupti similique eum, veritatis molestias omnis, harum inventore.
     </p>
-    <hr>
+    <hr />
     <div class="caja-uno">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa cupiditate accusamus error, quae ut corporis
-        incidunt nihil cum, quis fugit hic eligendi quaerat vero nobis velit nam dolores delectus optio?
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa cupiditate
+      accusamus error, quae ut corporis incidunt nihil cum, quis fugit hic
+      eligendi quaerat vero nobis velit nam dolores delectus optio?
     </div>
     <div class="caja-dos">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa cupiditate accusamus error, quae ut corporis
-        incidunt nihil cum, quis fugit hic eligendi quaerat vero nobis velit nam dolores delectus optio?
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa cupiditate
+      accusamus error, quae ut corporis incidunt nihil cum, quis fugit hic
+      eligendi quaerat vero nobis velit nam dolores delectus optio?
     </div>
+    <hr />
+    <h2>Cajas de linea vs cajas de bloque</h2>
+    <span class="caja-linea">Esto es una caja de linea</span>
+    <span>Esto es una span</span>
+    <div class="caja-bloque">Esto es una caja de bloque</div>
+    <hr />
+    <h2>Propiedad display</h2>
+    <div class="caja-none">
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio voluptates
+      ipsum distinctio cum ipsam iusto fugiat sint debitis, porro quaerat
+      numquam recusandae sed sunt, delectus accusamus fugit adipisci perferendis
+      saepe id? Vitae, reiciendis dolores ratione adipisci consectetur maiores
+      fuga quam!
+    </div>
+    <span class="caja-linea-bloque"
+      >Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis iusto
+      ea eum animi expedita quo ad nemo deleniti fugiat laborum commodi, velit
+      accusantium aliquid cupiditate repudiandae id. Distinctio, laborum
+      eius.</span
+    >
+
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, animi
+      ducimus eos quibusdam cupiditate vitae tempora hic dolorem voluptatum
+      culpa distinctio eius eum corporis natus maxime sint sunt, provident
+      commodi.
+    </p>
+
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+      <li>Item 4</li>
+    </ul>
+
+    <ol>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+      <li>Item 4</li>
+    </ol>
+
+    <table>
+      <tr>
+        <td>Celda 1</td>
+        <td>Celda 2</td>
+        <td>Celda 3</td>
+      </tr>
+      <tr>
+        <td>Celda 4</td>
+        <td>Celda 5</td>
+        <td>Celda 6</td>
+      </tr>
+      <tr>
+        <td>Celda 7</td>
+        <td>Celda 8</td>
+        <td>Celda 9</td>
+      </tr>
+    </table>
+    <hr />
+    <h2>Propiedad de visibility</h2>
+    <div class="caja-none">
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio voluptates
+      ipsum distinctio cum ipsam iusto fugiat sint debitis, porro quaerat
+      numquam recusandae sed sunt, delectus accusamus fugit adipisci perferendis
+      saepe id? Vitae, reiciendis dolores ratione adipisci consectetur maiores
+      fuga quam!
+    </div>
+    <div class="caja-hidden">
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio voluptates
+      ipsum distinctio cum ipsam iusto fugiat sint debitis, porro quaerat
+      numquam recusandae sed sunt, delectus accusamus fugit adipisci perferendis
+      saepe id? Vitae, reiciendis dolores ratione adipisci consectetur maiores
+      fuga quam!
+    </div>
+    <hr />
+    <h2>Propiedad overflow</h2>
+    <p class="overflow">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum,
+      dignissimos laudantium. Odit, corrupti modi? In deleniti asperiores
+      nostrum ipsa! Voluptate quaerat dicta corporis laborum, quasi rem? Aperiam
+      facere culpa magni.
+    </p>
+    <hr />
+    <h2>Tamaño de caja</h2>
+    <div class="box-sizing-content">
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem
+      earum blanditiis, ducimus possimus, ad soluta itaque vel repellendus
+      assumenda veritatis fugiat quam? Neque ducimus aspernatur, maxime quam
+      quidem beatae perferendis.
+    </div>
+    <div class="box-sizing-border">
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem
+      earum blanditiis, ducimus possimus, ad soluta itaque vel repellendus
+      assumenda veritatis fugiat quam? Neque ducimus aspernatur, maxime quam
+      quidem beatae perferendis.
+    </div>
+    <article class="container-col-3">
+      <section class="item">Sección 1</section>
+      <section class="item">Sección 2</section>
+      <section class="item">Sección 3</section>
+    </article>
+    <hr />
     <a href="main.html#tarjet-pseudoclases">Volver al inicio</a>
-
-</body>
-
+  </body>
+  <!-- <py-script> print("Hola mundo") </py-script> -->
 </html>
